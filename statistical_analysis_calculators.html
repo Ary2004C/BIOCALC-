@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Statistical and Data Analysis Calculators</title>
+  <meta name="description" content="Perform statistical analyses including t-tests, ANOVA, correlation, and chi-square tests with this easy-to-use calculator.">
+  <meta name="keywords" content="statistics, t-test, ANOVA, correlation, chi-square, data analysis">
+  <meta name="author" content="Your Name or Website Name">
+  <link rel="stylesheet" href="css/statistical_data_analysis.css">
+  <script src="popup.js" defer></script>
+  <script src="js/statistical_data_analysis_calculators.js" defer></script>
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8342410752526181"
+     crossorigin="anonymous"></script>
+</head>
+<body>
+  <header>
+    <a class="home-button" href="index.html">&#8592; Back to Home</a>
+  </header>
+
+  <h1>Statistical and Data Analysis Calculators</h1>
+
+  <main>
+    <!-- t-Test Calculator -->
+    <section>
+      <h2>t-Test Calculator</h2>
+      <p>Perform an independent t-test to compare two sample means.</p>
+      <label for="t-group1">Group 1 Data (comma-separated):</label>
+      <input type="text" id="t-group1">
+      <label for="t-group2">Group 2 Data (comma-separated):</label>
+      <input type="text" id="t-group2">
+      <button id="t-test-btn">Calculate</button>
+      <p id="t-test-result">Result will appear here.</p>
+      <div id="t-test-explanation" class="explanation"></div>
+    </section>
+
+    <!-- ANOVA Calculator -->
+    <section>
+      <h2>ANOVA Calculator</h2>
+      <p>Compare multiple group means using one-way ANOVA.</p>
+      <label for="anova-groups">Group Data (semicolon-separated for each group):</label>
+      <input type="text" id="anova-groups">
+      <button id="anova-btn">Calculate</button>
+      <p id="anova-result">Result will appear here.</p>
+      <div id="anova-explanation" class="explanation"></div>
+    </section>
+
+    <!-- Correlation Calculator -->
+    <section>
+      <h2>Correlation Calculator</h2>
+      <p>Calculate the correlation coefficient between two datasets.</p>
+      <label for="x-values">X Values (comma-separated):</label>
+      <input type="text" id="x-values">
+      <label for="y-values">Y Values (comma-separated):</label>
+      <input type="text" id="y-values">
+      <button id="correlation-btn">Calculate</button>
+      <p id="correlation-result">Result will appear here.</p>
+      <div id="correlation-explanation" class="explanation"></div>
+    </section>
+
+    <!-- Chi-Square Calculator -->
+    <section>
+      <h2>Chi-Square Calculator</h2>
+      <p>Perform a chi-square test to compare observed and expected frequencies.</p>
+      <label for="observed">Observed Data (comma-separated):</label>
+      <input type="text" id="observed">
+      <label for="expected">Expected Data (comma-separated):</label>
+      <input type="text" id="expected">
+      <button id="chi-square-btn">Calculate</button>
+      <p id="chi-square-result">Result will appear here.</p>
+      <div id="chi-square-explanation" class="explanation"></div>
+    </section>
+  </main>
+
+  <script>
+    // Ensure explanation boxes are hidden initially
+    document.querySelectorAll(".explanation").forEach(explanation => {
+      explanation.style.display = "none";
+    });
+  </script>
+</body>
+</html>

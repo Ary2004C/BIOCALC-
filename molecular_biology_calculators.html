@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Molecular Biology Calculators</title>
+  <link rel="stylesheet" href="css/molecular_biology.css">
+  <script src="js/molecular_biology_calculators.js" defer></script>
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8342410752526181"
+     crossorigin="anonymous"></script>
+</head>
+<body>
+  <header>
+    <a class="home-button" href="index.html">&#8592; Back to Home</a>
+  </header>
+
+  <h1>Molecular Biology Calculators</h1>
+
+  <main>
+    <!-- PCR Calculator -->
+    <section>
+      <h2>PCR Calculator</h2>
+      <label for="pcr-c1">Initial Concentration (C1):</label>
+      <input type="number" id="pcr-c1" step="any">
+      <label for="pcr-v1">Initial Volume (V1):</label>
+      <input type="number" id="pcr-v1" step="any">
+      <label for="pcr-c2">Final Concentration (C2):</label>
+      <input type="number" id="pcr-c2" step="any">
+      <label for="pcr-v2">Final Volume (V2):</label>
+      <input type="number" id="pcr-v2" step="any">
+      <p id="pcr-result">PCR result will appear here.</p>
+      <button id="pcr-btn">Calculate</button>
+      <div id="pcr-explanation" class="explanation"></div>
+    </section>
+
+    <!-- Molarity Calculator -->
+    <section>
+      <h2>Molarity Calculator</h2>
+      <label for="molarity-mol">Moles:</label>
+      <input type="number" id="molarity-mol" step="any">
+      <label for="molarity-l">Volume (L):</label>
+      <input type="number" id="molarity-l" step="any">
+      <p id="molarity-result">Molarity result will appear here.</p>
+      <button id="molarity-btn">Calculate</button>
+      <div id="molarity-explanation" class="explanation"></div>
+    </section>
+
+    <!-- Dilution Calculator -->
+    <section>
+      <h2>Dilution Calculator</h2>
+      <label for="dilution-c1">Initial Concentration (C1):</label>
+      <input type="number" id="dilution-c1" step="any">
+      <label for="dilution-v1">Initial Volume (V1):</label>
+      <input type="number" id="dilution-v1" step="any">
+      <label for="dilution-c2">Final Concentration (C2):</label>
+      <input type="number" id="dilution-c2" step="any">
+      <p id="dilution-result">Dilution result will appear here.</p>
+      <button id="dilution-btn">Calculate</button>
+      <div id="dilution-explanation" class="explanation"></div>
+    </section>
+
+    <!-- DNA/RNA Concentration Calculator -->
+    <section>
+      <h2>DNA/RNA Concentration Calculator</h2>
+      <label for="abs260">Absorbance at 260nm (A260):</label>
+      <input type="number" id="abs260" step="any">
+      <label for="dilution-factor">Dilution Factor:</label>
+      <input type="number" id="dilution-factor" step="any">
+      <p id="concentration-result">DNA/RNA Concentration result will appear here.</p>
+      <button id="concentration-btn">Calculate</button>
+      <div id="concentration-explanation" class="explanation"></div>
+    </section>
+
+    <!-- Melting Temperature Calculator -->
+    <section>
+      <h2>Melting Temperature (Tm) Calculator</h2>
+      <label for="sequence">DNA Sequence:</label>
+      <input type="text" id="sequence">
+      <p id="tm-result">Melting Temperature (Tm) result will appear here.</p>
+      <button id="tm-btn">Calculate</button>
+      <div id="tm-explanation" class="explanation"></div>
+    </section>
+
+    <!-- Restriction Enzyme Digest Calculator -->
+    <section>
+      <h2>Restriction Enzyme Digest Calculator</h2>
+      <label for="dna-concentration">DNA Concentration (ng/µL):</label>
+      <input type="number" id="dna-concentration" step="any">
+      <label for="enzyme-volume">Enzyme Volume (µL):</label>
+      <input type="number" id="enzyme-volume" step="any">
+      <p id="digest-result">Restriction Digest result will appear here.</p>
+      <button id="digest-btn">Calculate</button>
+      <div id="digest-explanation" class="explanation"></div>
+    </section>
+  </main>
+</body>
+</html>

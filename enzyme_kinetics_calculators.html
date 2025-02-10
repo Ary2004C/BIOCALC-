@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Enzyme Kinetics Calculators</title>
+  <link rel="stylesheet" href="css/enzyme_kinetics.css">
+  <script src="popup.js" defer></script>
+  <script src="js/enzyme_kinetics_calculators.js" defer></script>
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8342410752526181"
+     crossorigin="anonymous"></script>
+</head>
+<body>
+  <header>
+    <a class="home-button" href="index.html">&#8592; Back to Home</a>
+  </header>
+
+  <h1>Enzyme Kinetics Calculators</h1>
+
+  <main>
+    <!-- Michaelis-Menten Calculator -->
+    <section>
+      <h2>Michaelis-Menten Calculator</h2>
+      <label for="vmax">Vmax:</label>
+      <input type="number" id="vmax" step="any" min="0">
+      <label for="substrate">Substrate Concentration [S]:</label>
+      <input type="number" id="substrate" step="any" min="0">
+      <label for="km">Km:</label>
+      <input type="number" id="km" step="any" min="0">
+      <p id="michaelis-result">Result will appear here.</p>
+      <button id="michaelis-btn">Calculate</button>
+      <div id="michaelis-explanation" class="explanation"></div>
+    </section>
+
+    <!-- Lineweaver-Burk Plot Tool -->
+    <section>
+      <h2>Lineweaver-Burk Plot Tool</h2>
+      <label for="s1">Substrate Concentration (S1):</label>
+      <input type="number" id="s1" step="any" min="0">
+      <label for="v1">Reaction Velocity (V1):</label>
+      <input type="number" id="v1" step="any" min="0">
+      <label for="s2">Substrate Concentration (S2):</label>
+      <input type="number" id="s2" step="any" min="0">
+      <label for="v2">Reaction Velocity (V2):</label>
+      <input type="number" id="v2" step="any" min="0">
+      <p id="lineweaver-result">Result will appear here.</p>
+      <button id="lineweaver-btn">Calculate</button>
+      <div id="lineweaver-explanation" class="explanation"></div>
+    </section>
+
+    <!-- Reaction Velocity Calculator -->
+    <section>
+      <h2>Reaction Velocity Calculator</h2>
+      <label for="reaction-s">[S] Substrate Concentration:</label>
+      <input type="number" id="reaction-s" step="any" min="0">
+      <label for="reaction-vmax">Vmax:</label>
+      <input type="number" id="reaction-vmax" step="any" min="0">
+      <label for="reaction-km">Km:</label>
+      <input type="number" id="reaction-km" step="any" min="0">
+      <p id="reaction-result">Reaction velocity result will appear here.</p>
+      <button id="reaction-btn">Calculate</button>
+      <div id="reaction-explanation" class="explanation"></div>
+    </section>
+  </main>
+</body>
+</html>

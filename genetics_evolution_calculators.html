@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Genetics and Evolutionary Biology Calculators</title>
+  <link rel="stylesheet" href="css/genetics_evolution_biology.css">
+  <script src="popup.js" defer></script>
+  <script src="js/genetics_evolutionary_biology_calculators.js" defer></script>
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8342410752526181"
+     crossorigin="anonymous"></script>
+</head>
+<body>
+  <header>
+    <a class="home-button" href="index.html">&#8592; Back to Home</a>
+  </header>
+
+  <h1>Genetics and Evolutionary Biology Calculators</h1>
+
+  <main>
+    <!-- Punnett Square Calculator -->
+    <section>
+      <h2>Punnett Square Calculator</h2>
+      <label for="parent1-genotype">Parent 1 Genotype:</label>
+      <input type="text" id="parent1-genotype" pattern="[A-Z]{2}" maxlength="2" 
+             title="Enter exactly 2 uppercase letters (e.g., AA, Aa, Bb)" autocomplete="off" required>
+
+      <label for="parent2-genotype">Parent 2 Genotype:</label>
+      <input type="text" id="parent2-genotype" pattern="[A-Z]{2}" maxlength="2" 
+             title="Enter exactly 2 uppercase letters (e.g., AA, Aa, Bb)" autocomplete="off" required>
+
+      <button id="punnett-btn">Calculate</button>
+      <p id="punnett-result">Result will appear here.</p>
+      <div id="punnett-explanation" class="explanation"></div>
+    </section>
+
+    <!-- Mutation Rate Calculator -->
+    <section>
+      <h2>Mutation Rate Calculator</h2>
+      <label for="total-bases">Total Bases:</label>
+      <input type="number" id="total-bases" step="any" min="1" autocomplete="off" required>
+
+      <label for="mutations">Number of Mutations:</label>
+      <input type="number" id="mutations" step="any" min="0" autocomplete="off" required>
+
+      <button id="mutation-btn">Calculate</button>
+      <p id="mutation-result">Mutation rate will appear here.</p>
+      <div id="mutation-explanation" class="explanation"></div>
+    </section>
+
+    <!-- Phylogenetic Distance Calculator -->
+    <section>
+      <h2>Phylogenetic Distance Calculator</h2>
+      <label for="sequence1">Sequence 1:</label>
+      <input type="text" id="sequence1" pattern="[ATGC]+" title="Only A, T, G, and C characters allowed" 
+             autocomplete="off" required>
+
+      <label for="sequence2">Sequence 2:</label>
+      <input type="text" id="sequence2" pattern="[ATGC]+" title="Only A, T, G, and C characters allowed" 
+             autocomplete="off" required>
+
+      <button id="phylogenetic-btn">Calculate</button>
+      <p id="phylogenetic-result">Phylogenetic distance will appear here.</p>
+      <div id="phylogenetic-explanation" class="explanation"></div>
+    </section>
+  </main>
+</body>
+</html>

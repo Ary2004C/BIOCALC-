@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Metabolic and Biochemical Calculators</title>
+  <link rel="stylesheet" href="css/metabolic_biochemical_calculator.css">
+  <script src="popup.js" defer></script>
+  <script src="js/metabolic_biochemical_calculators.js" defer></script>
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8342410752526181"
+     crossorigin="anonymous"></script>
+</head>
+<body>
+  <header>
+    <a class="home-button" href="index.html">&#8592; Back to Home</a>
+  </header>
+
+  <h1>Metabolic and Biochemical Calculators</h1>
+
+  <main>
+    <!-- pH and pKa Calculator -->
+    <section>
+      <h2>pH and pKa Calculator</h2>
+      <label for="acid-concentration">Acid Concentration (mol/L):</label>
+      <input type="number" id="acid-concentration" step="any" min="0" required>
+
+      <label for="base-concentration">Base Concentration (mol/L):</label>
+      <input type="number" id="base-concentration" step="any" min="0" required>
+
+      <label for="pka-value">pKa Value:</label>
+      <input type="number" id="pka-value" step="any" required>
+
+      <button id="ph-pka-btn">Calculate</button>
+      <p id="ph-pka-result">Result will appear here.</p>
+      <div id="ph-pka-explanation" class="explanation"></div>
+    </section>
+
+    <!-- Metabolite Concentration Calculator -->
+    <section>
+      <h2>Metabolite Concentration Calculator</h2>
+      <label for="metabolite-amount">Amount of Metabolite (mol):</label>
+      <input type="number" id="metabolite-amount" step="any" min="0" required>
+
+      <label for="solution-volume">Solution Volume (L):</label>
+      <input type="number" id="solution-volume" step="any" min="0" required>
+
+      <button id="metabolite-btn">Calculate</button>
+      <p id="metabolite-result">Result will appear here.</p>
+      <div id="metabolite-explanation" class="explanation"></div>
+    </section>
+
+    <!-- Respiratory Quotient Calculator -->
+    <section>
+      <h2>Respiratory Quotient (RQ) Calculator</h2>
+      <label for="co2-produced">CO₂ Produced (mol):</label>
+      <input type="number" id="co2-produced" step="any" min="0" required>
+
+      <label for="o2-consumed">O₂ Consumed (mol):</label>
+      <input type="number" id="o2-consumed" step="any" min="0" required>
+
+      <button id="respiratory-btn">Calculate</button>
+      <p id="respiratory-result">Result will appear here.</p>
+      <div id="respiratory-explanation" class="explanation"></div>
+    </section>
+  </main>
+</body>
+</html>

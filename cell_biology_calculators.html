@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Cell Biology Calculators</title>
+  <link rel="stylesheet" href="css/cell_biology_calculators.css">
+  <script src="popup.js" defer></script>
+  <script src="js/cell_biology_calculators.js" defer></script>
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8342410752526181"
+     crossorigin="anonymous"></script>
+</head>
+<body>
+  <header>
+    <a class="home-button" href="index.html">&#8592; Back to Home</a>
+  </header>
+
+  <h1>Cell Biology Calculators</h1>
+
+  <main>
+    <!-- Cell Culture Dilution Calculator -->
+    <section>
+      <h2>Cell Culture Dilution Calculator</h2>
+      <label for="initial-cells">Initial Cell Count:</label>
+      <input type="number" id="initial-cells" step="any">
+      <label for="dilution-factor">Dilution Factor:</label>
+      <input type="number" id="dilution-factor" step="any">
+      <p id="culture-dilution-result">Result will appear here.</p>
+      <button id="culture-dilution-btn">Calculate</button>
+      <div id="culture-dilution-explanation" class="explanation"></div>
+    </section>
+
+    <!-- Cell Viability Calculator -->
+    <section>
+      <h2>Cell Viability Calculator</h2>
+      <label for="total-cells">Total Cells:</label>
+      <input type="number" id="total-cells" step="any">
+      <label for="viable-cells">Viable Cells:</label>
+      <input type="number" id="viable-cells" step="any">
+      <p id="viability-result">Viability result will appear here.</p>
+      <button id="viability-btn">Calculate</button>
+      <div id="viability-explanation" class="explanation"></div>
+    </section>
+
+    <!-- Doubling Time Calculator -->
+    <section>
+      <h2>Doubling Time Calculator</h2>
+      <label for="initial-population">Initial Population:</label>
+      <input type="number" id="initial-population" step="any">
+      <label for="final-population">Final Population:</label>
+      <input type="number" id="final-population" step="any">
+      <label for="time">Elapsed Time (hours):</label>
+      <input type="number" id="time" step="any">
+      <p id="doubling-time-result">Doubling time result will appear here.</p>
+      <button id="doubling-time-btn">Calculate</button>
+      <div id="doubling-time-explanation" class="explanation"></div>
+    </section>
+  </main>
+</body>
+</html>

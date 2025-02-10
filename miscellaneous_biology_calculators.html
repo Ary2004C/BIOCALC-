@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Miscellaneous Biology Calculators</title>
+  <link rel="stylesheet" href="css/miscellaneous_biology_calculators.css">
+  <script src="popup.js" defer></script>
+  <script src="js/miscellaneous_biology_calculators.js" defer></script>
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8342410752526181"
+     crossorigin="anonymous"></script>
+</head>
+<body>
+  <header>
+    <a class="home-button" href="index.html">&#8592; Back to Home</a>
+  </header>
+
+  <h1>Miscellaneous Biology Calculators</h1>
+
+  <main>
+    <!-- Unit Conversion Tools -->
+    <section>
+      <h2>Unit Conversion Tools</h2>
+      <label for="value-to-convert">Value to Convert:</label>
+      <input type="number" id="value-to-convert" step="any" required>
+      
+      <label for="conversion-type">Conversion Type:</label>
+      <select id="conversion-type">
+        <option value="" disabled selected>Select Conversion Type</option>
+        <option value="ml-to-l">mL to L</option>
+        <option value="l-to-ml">L to mL</option>
+        <option value="ng-to-mcg">ng to µg</option>
+        <option value="mcg-to-ng">µg to ng</option>
+      </select>
+
+      <button id="conversion-btn">Convert</button>
+      <p id="conversion-result">Conversion result will appear here.</p>
+      <div id="conversion-explanation" class="explanation"></div>
+    </section>
+
+    <!-- Concentration-Time Decay Calculator -->
+    <section>
+      <h2>Concentration-Time Decay Calculator</h2>
+      <label for="initial-concentration">Initial Concentration:</label>
+      <input type="number" id="initial-concentration" step="any" required>
+
+      <label for="decay-rate">Decay Rate:</label>
+      <input type="number" id="decay-rate" step="any" required>
+
+      <label for="time-elapsed">Time Elapsed:</label>
+      <input type="number" id="time-elapsed" step="any" required>
+
+      <button id="decay-btn">Calculate</button>
+      <p id="decay-result">Decay result will appear here.</p>
+      <div id="decay-explanation" class="explanation"></div>
+    </section>
+
+    <!-- Oxygen Consumption Rate Calculator -->
+    <section>
+      <h2>Oxygen Consumption Rate Calculator</h2>
+      <label for="o2-volume">Oxygen Volume (mL):</label>
+      <input type="number" id="o2-volume" step="any" required>
+
+      <label for="time">Time (minutes):</label>
+      <input type="number" id="time" step="any" required>
+
+      <button id="oxygen-consumption-btn">Calculate</button>
+      <p id="oxygen-consumption-result">Oxygen consumption rate will appear here.</p>
+      <div id="oxygen-consumption-explanation" class="explanation"></div>
+    </section>
+  </main>
+</body>
+</html>

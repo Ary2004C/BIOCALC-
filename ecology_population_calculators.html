@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Ecology and Population Biology Calculators</title>
+  <link rel="stylesheet" href="css/ecology_population.css">
+  <script src="popup.js" defer></script>
+  <script src="js/ecology_population_calculators.js" defer></script>
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8342410752526181"
+     crossorigin="anonymous"></script>
+</head>
+<body>
+  <header>
+    <a class="home-button" href="index.html">&#8592; Back to Home</a>
+  </header>
+
+  <h1>Ecology and Population Biology Calculators</h1>
+
+  <main>
+    <!-- Population Growth Calculator -->
+    <section>
+      <h2>Population Growth Calculator</h2>
+      <label for="initial-population">Initial Population (N0):</label>
+      <input type="number" id="initial-population" step="any" min="0">
+      <label for="growth-rate">Growth Rate (r):</label>
+      <input type="number" id="growth-rate" step="any">
+      <label for="time">Time (t):</label>
+      <input type="number" id="time" step="any" min="0">
+      <p id="population-growth-result">Result will appear here.</p>
+      <button id="population-growth-btn">Calculate</button>
+      <div id="population-growth-explanation" class="explanation"></div>
+    </section>
+
+    <!-- Hardy-Weinberg Equilibrium Calculator -->
+    <section>
+      <h2>Hardy-Weinberg Equilibrium Calculator</h2>
+      <label for="allele-p">Frequency of Allele p:</label>
+      <input type="number" id="allele-p" step="any" min="0" max="1">
+      <label for="allele-q">Frequency of Allele q:</label>
+      <input type="number" id="allele-q" step="any" min="0" max="1">
+      <p id="hardy-weinberg-result">Result will appear here.</p>
+      <button id="hardy-weinberg-btn">Calculate</button>
+      <div id="hardy-weinberg-explanation" class="explanation"></div>
+    </section>
+
+    <!-- Species Diversity Calculator -->
+    <section>
+      <h2>Species Diversity Calculator</h2>
+      <label for="species-count">Number of Species:</label>
+      <input type="number" id="species-count" step="1" min="1">
+      <label for="species-abundance">Abundance Data (comma-separated):</label>
+      <input type="text" id="species-abundance">
+      <p id="species-diversity-result">Result will appear here.</p>
+      <button id="species-diversity-btn">Calculate</button>
+      <div id="species-diversity-explanation" class="explanation"></div>
+    </section>
+
+    <!-- Carrying Capacity Calculator -->
+    <section>
+      <h2>Carrying Capacity Calculator</h2>
+      <label for="available-resources">Available Resources:</label>
+      <input type="number" id="available-resources" step="any" min="0">
+      <label for="resources-per-individual">Resources Needed per Individual:</label>
+      <input type="number" id="resources-per-individual" step="any" min="0.01">
+      <p id="carrying-capacity-result">Result will appear here.</p>
+      <button id="carrying-capacity-btn">Calculate</button>
+      <div id="carrying-capacity-explanation" class="explanation"></div>
+    </section>
+  </main>
+</body>
+</html>

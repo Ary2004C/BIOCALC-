@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Molecular Biology Calculators",
+    "keywords": "PCR, molarity, dilution, DNA, RNA",
+    "link": "molecular_biology_calculators.html"
+  },
+  {
+    "title": "Enzyme Kinetics Calculators",
+    "keywords": "Michaelis-Menten, reaction velocity, enzyme kinetics",
+    "link": "enzyme_kinetics_calculators.html"
+  },
+  {
+    "title": "Ecology and Population Biology Calculators",
+    "keywords": "population growth, Hardy-Weinberg, species diversity",
+    "link": "ecology_population_calculators.html"
+  },
+  {
+    "title": "Bioinformatics Tools",
+    "keywords": "codon optimization, protein weight, sequence alignment, ORF",
+    "link": "bioinformatics_tools.html"
+  },
+  {
+    "title": "Cell Biology Calculators",
+    "keywords": "cell culture, viability, doubling time",
+    "link": "cell_biology_calculators.html"
+  },
+  {
+    "title": "Statistical and Data Analysis Calculators",
+    "keywords": "t-test, ANOVA, correlation, chi-square",
+    "link": "statistical_analysis_calculators.html"
+  },
+  {
+    "title": "Metabolic and Biochemical Calculators",
+    "keywords": "pH, pKa, metabolite, respiratory quotient",
+    "link": "metabolic_biochemical_calculators.html"
+  },
+  {
+    "title": "Genetics and Evolutionary Biology Calculators",
+    "keywords": "Punnett square, mutation rate, phylogenetic distance",
+    "link": "genetics_evolutionary_biology_calculators.html"
+  },
+  {
+    "title": "Miscellaneous Biology Calculators",
+    "keywords": "unit conversion, decay, oxygen consumption",
+    "link": "miscellaneous_biology_calculators.html"
+  }
+]
