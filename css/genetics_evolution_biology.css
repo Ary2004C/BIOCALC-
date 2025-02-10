@@ -1,0 +1,151 @@
+/* General Page Styling */
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Open Sans', sans-serif;
+  background: #f3f4f6; /* Light gray for better contrast */
+  color: #000;
+}
+
+/* Header Styling */
+header {
+  padding: 10px 20px;
+  background-color: #4CAF50;
+}
+
+header .home-button {
+  text-decoration: none;
+  color: #fff;
+  font-size: 1rem;
+  font-weight: bold;
+}
+
+header .home-button:hover {
+  color: #FFEB3B;
+}
+
+/* Main Title */
+h1 {
+  font-size: 2.5rem;
+  text-align: center;
+  margin-top: 20px;
+  color: #4CAF50; /* Green accent */
+}
+
+/* Layout Grid */
+main {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 20px;
+  padding: 20px;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+/* Section Card Styling */
+section {
+  background: #fff;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  padding: 20px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  display: flex;
+  flex-direction: column;
+  align-items: center; /* Ensures content is centered */
+}
+
+section:hover {
+  transform: scale(1.05);
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
+}
+
+section h2 {
+  font-size: 1.8rem;
+  margin-bottom: 10px;
+  color: #333;
+}
+
+/* Labels and Input Fields */
+section label {
+  font-size: 1rem;
+  color: #555;
+  display: block;
+  margin-top: 10px;
+}
+
+section input, section select {
+  width: calc(100% - 20px);
+  padding: 10px;
+  margin: 10px 0;
+  font-size: 1rem;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background: #fff;
+  transition: border 0.3s ease-in-out;
+}
+
+section input:focus, section select:focus {
+  border-color: #4CAF50;
+  outline: none;
+}
+
+/* Button Styling */
+button {
+  background-color: #4CAF50;
+  color: #fff;
+  border: none;
+  padding: 10px 15px;
+  font-size: 1rem;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  display: block;
+  margin: 10px auto; /* Centers the button */
+}
+
+button:hover {
+  background-color: #45a049;
+}
+
+/* ✅ Uniform Solid Green Explanation Box Styling */
+.explanation {
+  background-color: #4CAF50; /* Solid green */
+  color: #fff; /* White text */
+  padding: 15px;
+  border-radius: 10px;
+  margin-top: 10px;
+  font-size: 1rem;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+  display: none; /* Hidden by default */
+  text-align: left;
+  max-width: 90%; /* Prevents stretching */
+}
+
+/* ✅ Fix Explanation Alignment */
+section .explanation {
+  align-self: center; /* Centers the explanation box */
+}
+
+/* ✅ Error Message Styling */
+.error-message {
+  color: red;
+  font-weight: bold;
+  margin-top: 10px;
+  font-size: 1rem;
+  text-align: center;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  section {
+    width: 100%;
+    max-width: 400px;
+  }
+}
