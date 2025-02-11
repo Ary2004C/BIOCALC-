@@ -1,0 +1,16 @@
+{
+  "module7": [
+    {
+      "type": "multiple-choice",
+      "question": "Which of the following are non-cellular pathogens?",
+      "options": [
+        "Bacteria",
+        "Fungi",
+        "Prions",
+        "Protozoa"
+      ],
+      "answer": "Prions",
+      "explanation": "Prions are non-cellular pathogens, unlike bacteria, fungi, or protozoa, which are cellular."
+    }
+  ]
+}

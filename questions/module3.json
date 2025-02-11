@@ -1,0 +1,16 @@
+{
+  "module3": [
+    {
+      "type": "multiple-choice",
+      "question": "Which row of the table correctly identifies the process and reason for gene pool changes?",
+      "options": [
+        "Gene flow - Change in frequency of the b allele due to a mutation",
+        "Genetic drift - Change in frequency of the b allele due to random events",
+        "Gene flow - Introduction of more b alleles due to new members moving into the population",
+        "Genetic drift - Introduction of more b alleles due to this allele being more advantageous"
+      ],
+      "answer": "Genetic drift - Change in frequency of the b allele due to random events",
+      "explanation": "Genetic drift involves changes in allele frequency due to random events rather than selective pressure."
+    }
+  ]
+}

@@ -1,0 +1,939 @@
+{
+  "module5": [
+    {
+      "type": "multiple-choice",
+      "question": "Which of the following is an advantage of external fertilisation in animals? (1 mark)",
+      "options": [
+        "Offspring are protected inside the mother’s body",
+        "Higher chance of fertilisation occurring",
+        "Large numbers of gametes increase the chance of survival",
+        "Increased parental care"
+      ],
+      "answer": "Large numbers of gametes increase the chance of survival",
+      "explanation": "External fertilisation produces large numbers of gametes, increasing the likelihood that some will survive despite environmental risks."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What is the primary difference between binary fission and budding? (1 mark)",
+      "options": [
+        "Binary fission produces two genetically identical cells, whereas budding produces a smaller daughter cell",
+        "Budding occurs only in bacteria, while binary fission occurs in fungi",
+        "Budding results in genetic variation, while binary fission does not",
+        "Binary fission occurs only in multicellular organisms"
+      ],
+      "answer": "Binary fission produces two genetically identical cells, whereas budding produces a smaller daughter cell",
+      "explanation": "Binary fission results in two equal daughter cells, whereas budding forms a smaller outgrowth that eventually detaches."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Why is mitosis important for the continuity of species? (1 mark)",
+      "options": [
+        "It produces genetic variation",
+        "It ensures exact genetic replication for growth and repair",
+        "It produces gametes for reproduction",
+        "It allows mutations to spread in a population"
+      ],
+      "answer": "It ensures exact genetic replication for growth and repair",
+      "explanation": "Mitosis creates identical daughter cells, maintaining genetic stability for organism growth and repair."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What role does DNA polymerase play in DNA replication? (1 mark)",
+      "options": [
+        "Unwinds the DNA double helix",
+        "Joins Okazaki fragments together",
+        "Adds complementary nucleotides to form a new strand",
+        "Synthesises ribosomal RNA"
+      ],
+      "answer": "Adds complementary nucleotides to form a new strand",
+      "explanation": "DNA polymerase is responsible for adding nucleotides to the growing strand during replication."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which process is directly responsible for increasing genetic variation during meiosis? (1 mark)",
+      "options": [
+        "DNA replication",
+        "Cytokinesis",
+        "Crossing over",
+        "Mitosis"
+      ],
+      "answer": "Crossing over",
+      "explanation": "Crossing over during meiosis exchanges genetic material between homologous chromosomes, leading to variation."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What happens during transcription in polypeptide synthesis? (1 mark)",
+      "options": [
+        "mRNA is translated into a polypeptide",
+        "DNA is copied into mRNA",
+        "tRNA brings amino acids to the ribosome",
+        "Ribosomes link amino acids together"
+      ],
+      "answer": "DNA is copied into mRNA",
+      "explanation": "During transcription, a segment of DNA is used as a template to synthesize mRNA."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Why is polypeptide synthesis important? (1 mark)",
+      "options": [
+        "It produces ATP for the cell",
+        "It determines the phenotype of an organism",
+        "It regulates cell division",
+        "It removes mutations from DNA"
+      ],
+      "answer": "It determines the phenotype of an organism",
+      "explanation": "Polypeptides form proteins, which determine cellular function and phenotypic traits."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which inheritance pattern results in both alleles being equally expressed in a heterozygote? (1 mark)",
+      "options": [
+        "Incomplete dominance",
+        "Codominance",
+        "Complete dominance",
+        "Multiple alleles"
+      ],
+      "answer": "Codominance",
+      "explanation": "In codominance, both alleles contribute equally to the phenotype, such as in AB blood type."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What is a key feature of autosomal dominant inheritance? (1 mark)",
+      "options": [
+        "It affects males only",
+        "The trait skips generations",
+        "An affected person has at least one affected parent",
+        "It occurs only in sex chromosomes"
+      ],
+      "answer": "An affected person has at least one affected parent",
+      "explanation": "Autosomal dominant traits appear in every generation and require only one dominant allele to be expressed."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What is the function of tRNA in protein synthesis? (1 mark)",
+      "options": [
+        "Transports amino acids to the ribosome",
+        "Copies the DNA template",
+        "Catalyses peptide bond formation",
+        "Directly synthesises polypeptides"
+      ],
+      "answer": "Transports amino acids to the ribosome",
+      "explanation": "tRNA carries specific amino acids to the ribosome, matching them with mRNA codons."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What is the significance of SNPs (single nucleotide polymorphisms) in genetic research? (1 mark)",
+      "options": [
+        "They indicate mutations that always cause diseases",
+        "They help identify genetic variations within a population",
+        "They are the only cause of genetic disorders",
+        "They are only found in non-coding DNA"
+      ],
+      "answer": "They help identify genetic variations within a population",
+      "explanation": "SNPs are variations at a single DNA base and are used to study genetic diversity and disease susceptibility."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "How does DNA profiling help in forensic investigations? (1 mark)",
+      "options": [
+        "It identifies the sequence of entire genomes",
+        "It determines the phenotypic expression of an individual",
+        "It compares unique DNA patterns for identity verification",
+        "It modifies DNA to match suspect profiles"
+      ],
+      "answer": "It compares unique DNA patterns for identity verification",
+      "explanation": "DNA profiling compares specific genetic markers to identify individuals in forensic cases."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What role does fertilisation play in genetic variation? (1 mark)",
+      "options": [
+        "It reduces mutation rates",
+        "It creates genetically identical offspring",
+        "It combines genetic material from two parents",
+        "It ensures mutations are not passed on"
+      ],
+      "answer": "It combines genetic material from two parents",
+      "explanation": "Fertilisation introduces genetic variation by combining alleles from both parents."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Why is DNA sequencing useful in studying genetic diseases? (1 mark)",
+      "options": [
+        "It reveals mutations associated with diseases",
+        "It prevents diseases from occurring",
+        "It alters genes to cure diseases",
+        "It eliminates the need for genetic counseling"
+      ],
+      "answer": "It reveals mutations associated with diseases",
+      "explanation": "DNA sequencing identifies mutations that may contribute to genetic disorders."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "How does population genetics contribute to conservation management? (1 mark)",
+      "options": [
+        "It tracks the spread of infectious diseases",
+        "It monitors genetic diversity in endangered species",
+        "It eliminates harmful mutations in species",
+        "It predicts climate change effects"
+      ],
+      "answer": "It monitors genetic diversity in endangered species",
+      "explanation": "Population genetics studies genetic variation to support conservation efforts and maintain biodiversity."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which type of reproduction results in offspring that are genetically identical to the parent? (1 mark)",
+      "options": [
+        "Sexual reproduction",
+        "Fertilisation",
+        "Asexual reproduction",
+        "Crossing over"
+      ],
+      "answer": "Asexual reproduction",
+      "explanation": "Asexual reproduction produces clones, meaning offspring are genetically identical to the parent."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What is the main advantage of internal fertilisation over external fertilisation? (1 mark)",
+      "options": [
+        "Requires fewer gametes",
+        "Allows greater genetic variation",
+        "Increases the chance of successful fertilisation",
+        "Results in more offspring being produced"
+      ],
+      "answer": "Increases the chance of successful fertilisation",
+      "explanation": "Internal fertilisation protects gametes, increasing the chances of successful fertilisation and embryo development."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What is the purpose of meiosis in sexual reproduction? (1 mark)",
+      "options": [
+        "To produce genetically identical cells",
+        "To reduce chromosome number and create genetic variation",
+        "To repair damaged cells",
+        "To produce somatic cells"
+      ],
+      "answer": "To reduce chromosome number and create genetic variation",
+      "explanation": "Meiosis creates haploid gametes, ensuring genetic diversity and maintaining chromosome number across generations."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What is the role of helicase in DNA replication? (1 mark)",
+      "options": [
+        "It joins Okazaki fragments",
+        "It adds nucleotides to the growing strand",
+        "It unwinds the DNA double helix",
+        "It proofreads the DNA sequence"
+      ],
+      "answer": "It unwinds the DNA double helix",
+      "explanation": "Helicase breaks hydrogen bonds between base pairs, unwinding the DNA helix to allow replication."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which of the following best describes the process of translation? (1 mark)",
+      "options": [
+        "The synthesis of mRNA from a DNA template",
+        "The movement of DNA from the nucleus to the ribosome",
+        "The conversion of mRNA into a polypeptide",
+        "The duplication of DNA before cell division"
+      ],
+      "answer": "The conversion of mRNA into a polypeptide",
+      "explanation": "Translation occurs at ribosomes, where mRNA codons direct the synthesis of polypeptides."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What is the function of a ribosome in protein synthesis?",
+      "options": [
+        "Copies the DNA sequence into mRNA",
+        "Attaches amino acids to tRNA",
+        "Assembles amino acids into a polypeptide chain",
+        "Regulates gene expression"
+      ],
+      "answer": "Assembles amino acids into a polypeptide chain",
+      "explanation": "Ribosomes facilitate the linking of amino acids according to mRNA codons to form proteins."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "How does crossing over during meiosis contribute to genetic diversity?",
+      "options": [
+        "By reducing chromosome number",
+        "By exchanging genetic material between homologous chromosomes",
+        "By producing identical daughter cells",
+        "By preventing mutations"
+      ],
+      "answer": "By exchanging genetic material between homologous chromosomes",
+      "explanation": "Crossing over recombines genetic material, increasing variation among offspring."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "A person with AB blood type inherits one A allele from one parent and one B allele from the other. This is an example of:",
+      "options": [
+        "Incomplete dominance",
+        "Codominance",
+        "Autosomal recessive inheritance",
+        "X-linked inheritance"
+      ],
+      "answer": "Codominance",
+      "explanation": "In codominance, both alleles are fully expressed in the phenotype, as seen in the AB blood type."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What is the significance of mutations in a population?",
+      "options": [
+        "They always cause genetic disorders",
+        "They contribute to genetic variation and evolution",
+        "They only occur during meiosis",
+        "They prevent natural selection from occurring"
+      ],
+      "answer": "They contribute to genetic variation and evolution",
+      "explanation": "Mutations introduce new genetic variations, which can be beneficial, neutral, or harmful."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Why is the regulation of gene expression important?",
+      "options": [
+        "It prevents transcription from occurring",
+        "It ensures proteins are only produced when needed",
+        "It destroys unnecessary mRNA",
+        "It changes DNA sequences to create new genes"
+      ],
+      "answer": "It ensures proteins are only produced when needed",
+      "explanation": "Gene regulation controls protein synthesis, ensuring that cells only produce necessary proteins."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "How can a pedigree chart be used to determine inheritance patterns?",
+      "options": [
+        "By showing the mutation rate in a species",
+        "By displaying patterns of trait inheritance across generations",
+        "By identifying environmental influences on traits",
+        "By sequencing DNA"
+      ],
+      "answer": "By displaying patterns of trait inheritance across generations",
+      "explanation": "Pedigrees trace the inheritance of traits, helping to identify dominant, recessive, and sex-linked traits."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which of the following best describes the role of mRNA in protein synthesis?",
+      "options": [
+        "It carries amino acids to the ribosome",
+        "It forms the structure of ribosomes",
+        "It provides the template for assembling proteins",
+        "It stores genetic information"
+      ],
+      "answer": "It provides the template for assembling proteins",
+      "explanation": "mRNA serves as the template for assembling amino acids into a protein based on the DNA sequence."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "In humans, which chromosome combination determines a male?",
+      "options": [
+        "XX",
+        "YY",
+        "XY",
+        "XO"
+      ],
+      "answer": "XY",
+      "explanation": "Males inherit one X chromosome from their mother and one Y chromosome from their father."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "How do environmental factors influence gene expression?",
+      "options": [
+        "They change an individual’s DNA sequence",
+        "They activate or suppress certain genes",
+        "They cause only harmful mutations",
+        "They determine chromosome number"
+      ],
+      "answer": "They activate or suppress certain genes",
+      "explanation": "Environmental factors, such as temperature and nutrition, can influence gene expression without altering the DNA sequence."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which of the following technologies is used to analyze an individual’s unique genetic makeup?",
+      "options": [
+        "DNA profiling",
+        "Polymerase chain reaction (PCR)",
+        "Gene therapy",
+        "Genetic engineering"
+      ],
+      "answer": "DNA profiling",
+      "explanation": "DNA profiling compares genetic markers to identify individuals and study inheritance patterns."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which structure is responsible for carrying genetic information from one generation to the next? (1 mark)",
+      "options": [
+        "Proteins",
+        "Carbohydrates",
+        "DNA",
+        "Lipids"
+      ],
+      "answer": "DNA",
+      "explanation": "DNA stores genetic instructions and is passed from parents to offspring."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which of the following statements about meiosis is true? (1 mark)",
+      "options": [
+        "It results in genetically identical daughter cells",
+        "It produces four haploid cells",
+        "It occurs in somatic cells",
+        "It is a type of asexual reproduction"
+      ],
+      "answer": "It produces four haploid cells",
+      "explanation": "Meiosis reduces chromosome number by half and produces four genetically diverse haploid gametes."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What is the function of the centromere during cell division? (1 mark)",
+      "options": [
+        "To attach sister chromatids together",
+        "To replicate DNA",
+        "To produce spindle fibers",
+        "To synthesize RNA"
+      ],
+      "answer": "To attach sister chromatids together",
+      "explanation": "The centromere holds sister chromatids together and attaches to spindle fibers during mitosis and meiosis."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What is the complementary DNA strand for the sequence 5’ - ATGCCT - 3’? (1 mark)",
+      "options": [
+        "3’ - TACGGA - 5’",
+        "3’ - TAGCCA - 5’",
+        "3’ - CGTATT - 5’",
+        "3’ - GCATTA - 5’"
+      ],
+      "answer": "3’ - TACGGA - 5’",
+      "explanation": "In DNA, adenine (A) pairs with thymine (T), and cytosine (C) pairs with guanine (G)."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which of the following mutations is most likely to have a significant impact on an organism? (1 mark)",
+      "options": [
+        "Silent mutation",
+        "Nonsense mutation",
+        "Substitution mutation",
+        "Intron mutation"
+      ],
+      "answer": "Nonsense mutation",
+      "explanation": "A nonsense mutation creates a premature stop codon, leading to incomplete and nonfunctional proteins."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Why do offspring from sexual reproduction exhibit genetic variation? (1 mark)",
+      "options": [
+        "They inherit identical DNA from both parents",
+        "Mutations only occur in gametes",
+        "Crossing over and independent assortment during meiosis",
+        "DNA replication errors"
+      ],
+      "answer": "Crossing over and independent assortment during meiosis",
+      "explanation": "Crossing over and independent assortment introduce unique combinations of genes in offspring."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What is the purpose of a test cross in genetics? (1 mark)",
+      "options": [
+        "To identify unknown genotypes",
+        "To create genetically identical organisms",
+        "To determine the location of genes on a chromosome",
+        "To increase genetic diversity"
+      ],
+      "answer": "To identify unknown genotypes",
+      "explanation": "A test cross involves breeding an organism with a recessive genotype to determine if the unknown organism is homozygous or heterozygous."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which of the following describes incomplete dominance? (1 mark)",
+      "options": [
+        "Both alleles are equally expressed",
+        "One allele completely masks the other",
+        "The heterozygous phenotype is an intermediate of both alleles",
+        "There are multiple alleles for a trait"
+      ],
+      "answer": "The heterozygous phenotype is an intermediate of both alleles",
+      "explanation": "In incomplete dominance, the heterozygous phenotype is a blend of both parental traits (e.g., red and white flowers producing pink offspring)."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What role do histones play in DNA organization? (1 mark)",
+      "options": [
+        "They prevent DNA from replicating",
+        "They provide structural support to DNA, helping it coil into chromosomes",
+        "They act as enzymes in polypeptide synthesis",
+        "They synthesize mRNA"
+      ],
+      "answer": "They provide structural support to DNA, helping it coil into chromosomes",
+      "explanation": "Histones help package DNA into chromosomes, ensuring efficient storage and regulation."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which type of inheritance pattern is observed in hemophilia, a condition more common in males? (1 mark)",
+      "options": [
+        "Autosomal recessive",
+        "Autosomal dominant",
+        "X-linked recessive",
+        "Y-linked dominant"
+      ],
+      "answer": "X-linked recessive",
+      "explanation": "Hemophilia is an X-linked recessive disorder, meaning males (XY) are more likely to express the trait because they have only one X chromosome."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What does a karyotype display? (1 mark)",
+      "options": [
+        "The sequence of nucleotides in a gene",
+        "The complete set of chromosomes in an organism",
+        "The location of specific alleles on a chromosome",
+        "The structure of a protein"
+      ],
+      "answer": "The complete set of chromosomes in an organism",
+      "explanation": "A karyotype is a visual representation of an organism’s chromosomes, used to detect chromosomal abnormalities."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "In DNA replication, what is the purpose of the leading and lagging strands?",
+      "options": [
+        "They allow simultaneous DNA synthesis in both directions",
+        "They increase mutation rates",
+        "They prevent DNA from unwinding",
+        "They regulate RNA synthesis"
+      ],
+      "answer": "They allow simultaneous DNA synthesis in both directions",
+      "explanation": "DNA replication occurs in opposite directions; the leading strand is synthesized continuously, while the lagging strand is synthesized in Okazaki fragments."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which of the following statements about genetic drift is true?",
+      "options": [
+        "It affects only large populations",
+        "It results from natural selection",
+        "It is a random change in allele frequencies",
+        "It always increases genetic diversity"
+      ],
+      "answer": "It is a random change in allele frequencies",
+      "explanation": "Genetic drift is the random fluctuation of allele frequencies, often affecting small populations."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What is the function of restriction enzymes in genetic engineering?",
+      "options": [
+        "They amplify DNA sequences",
+        "They cut DNA at specific recognition sites",
+        "They convert RNA into DNA",
+        "They synthesize new proteins"
+      ],
+      "answer": "They cut DNA at specific recognition sites",
+      "explanation": "Restriction enzymes cut DNA at specific sequences, enabling genetic modification and analysis."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "How do transgenic organisms differ from naturally occurring organisms?",
+      "options": [
+        "They have identical DNA to their parent organism",
+        "They contain foreign DNA inserted through genetic engineering",
+        "They reproduce only through asexual reproduction",
+        "They do not undergo natural selection"
+      ],
+      "answer": "They contain foreign DNA inserted through genetic engineering",
+      "explanation": "Transgenic organisms have DNA from different species, often used in biotechnology for medical and agricultural applications."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What is the primary function of the promoter region in a gene?",
+      "options": [
+        "It codes for a specific protein",
+        "It signals the start of transcription",
+        "It terminates the translation process",
+        "It prevents DNA from being copied"
+      ],
+      "answer": "It signals the start of transcription",
+      "explanation": "The promoter is a DNA sequence that acts as a binding site for RNA polymerase, initiating transcription."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which of the following best describes a chromosomal mutation?",
+      "options": [
+        "A change in a single nucleotide within a gene",
+        "The addition or deletion of an entire chromosome",
+        "The replacement of a single amino acid in a protein",
+        "A temporary change in gene expression"
+      ],
+      "answer": "The addition or deletion of an entire chromosome",
+      "explanation": "Chromosomal mutations involve large-scale changes, such as duplications, deletions, or extra/missing chromosomes (e.g., Down syndrome)."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What is the role of the S phase in the cell cycle?",
+      "options": [
+        "Cell growth and preparation for mitosis",
+        "DNA replication",
+        "Separation of chromatids",
+        "Cytoplasmic division"
+      ],
+      "answer": "DNA replication",
+      "explanation": "During the S phase (Synthesis phase), DNA replication occurs, ensuring each daughter cell receives a full set of genetic material."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What is one advantage of polygenic inheritance?",
+      "options": [
+        "It results in only two possible phenotypes",
+        "It increases the range of phenotypic variation",
+        "It prevents mutations from affecting an organism",
+        "It follows simple Mendelian inheritance patterns"
+      ],
+      "answer": "It increases the range of phenotypic variation",
+      "explanation": "Polygenic inheritance involves multiple genes influencing a trait (e.g., skin color, height), leading to continuous variation rather than distinct categories."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What is the significance of the Human Genome Project?",
+      "options": [
+        "It developed the first transgenic organism",
+        "It discovered the function of all human proteins",
+        "It mapped all human genes and their locations",
+        "It eliminated all genetic disorders"
+      ],
+      "answer": "It mapped all human genes and their locations",
+      "explanation": "The Human Genome Project identified and mapped the location of genes in human DNA, enabling advancements in medicine, genetics, and biotechnology."
+    },
+    {
+      "type": "short-answer",
+      "question": "Explain one way meiosis contributes to genetic variation. (2 marks)",
+      "answer": "Meiosis contributes to genetic variation through crossing over, which occurs during prophase I. In this process, homologous chromosomes exchange genetic material, resulting in new combinations of alleles in gametes.",
+      "criteria": [
+        "Identifies crossing over as a source of genetic variation (1 mark)",
+        "Explains how crossing over creates new allele combinations in gametes (1 mark)"
+      ]
+    },
+    {
+      "type": "short-answer",
+      "question": "Compare the processes of mitosis and meiosis. (2 marks)",
+      "answer": "Mitosis produces two genetically identical diploid cells, used for growth and repair, while meiosis produces four genetically diverse haploid cells, which are used in sexual reproduction.",
+      "criteria": [
+        "Identifies that mitosis produces two diploid cells, while meiosis produces four haploid cells (1 mark)",
+        "Recognizes that mitosis creates genetically identical cells, while meiosis increases genetic diversity (1 mark)"
+      ]
+    },
+    {
+      "type": "short-answer",
+      "question": "How does the environment influence gene expression? Provide an example. (2 marks)",
+      "answer": "Environmental factors such as temperature can influence gene expression. For example, the fur color of Himalayan rabbits changes based on temperature—darker fur develops in colder areas due to gene activation.",
+      "criteria": [
+        "Describes that environmental factors affect gene expression (1 mark)",
+        "Provides a correct example (e.g., temperature affecting Himalayan rabbit fur) (1 mark)"
+      ]
+    },
+    {
+      "type": "short-answer",
+      "question": "Explain the significance of DNA replication occurring before cell division. (2 marks)",
+      "answer": "DNA replication ensures that each daughter cell receives an identical copy of genetic material. This maintains genetic continuity, allowing cells to function properly and ensuring species survival.",
+      "criteria": [
+        "States that DNA replication ensures daughter cells receive identical genetic material (1 mark)",
+        "Explains its importance for genetic continuity and proper cell function (1 mark)"
+      ]
+    },
+    {
+      "type": "short-answer",
+      "question": "Describe the role of mRNA in polypeptide synthesis. (2 marks)",
+      "answer": "mRNA carries the genetic code from DNA in the nucleus to ribosomes in the cytoplasm, where it is translated into a polypeptide sequence.",
+      "criteria": [
+        "Identifies that mRNA carries genetic instructions from DNA (1 mark)",
+        "Explains that mRNA is translated into a polypeptide at the ribosome (1 mark)"
+      ]
+    },
+    {
+      "type": "short-answer",
+      "question": "Describe the process of crossing over and explain its significance in meiosis. (3 marks)",
+      "answer": "Crossing over occurs during prophase I of meiosis when homologous chromosomes pair up and exchange genetic material at points called chiasmata. This results in new combinations of alleles in gametes, increasing genetic variation. This genetic diversity is important for evolution and adaptation in populations.",
+      "criteria": [
+        "Identifies that crossing over occurs in prophase I of meiosis (1 mark)",
+        "Describes exchange of genetic material between homologous chromosomes (1 mark)",
+        "Explains its role in increasing genetic variation and its importance in evolution (1 mark)"
+      ]
+    },
+    {
+      "type": "short-answer",
+      "question": "Explain the differences between autosomal dominant and autosomal recessive inheritance. (3 marks)",
+      "answer": "In autosomal dominant inheritance, an individual only needs one copy of the dominant allele to express the trait, and it appears in every generation (e.g., Huntington’s disease). In autosomal recessive inheritance, an individual must inherit two recessive alleles to express the trait, and the trait can skip generations (e.g., cystic fibrosis).",
+      "criteria": [
+        "Defines autosomal dominant inheritance (one dominant allele required, appears every generation) (1 mark)",
+        "Defines autosomal recessive inheritance (two recessive alleles required, can skip generations) (1 mark)",
+        "Provides an example of a disorder for each type (1 mark)"
+      ]
+    },
+    {
+      "type": "short-answer",
+      "question": "Explain how polypeptide synthesis occurs, including the roles of transcription and translation. (3 marks)",
+      "answer": "Polypeptide synthesis occurs in two stages: transcription and translation. In transcription, DNA is copied into mRNA in the nucleus. The mRNA then moves to a ribosome, where translation occurs. During translation, tRNA carries amino acids to the ribosome, where they are assembled into a polypeptide chain based on the mRNA sequence.",
+      "criteria": [
+        "Describes transcription (DNA → mRNA in the nucleus) (1 mark)",
+        "Describes translation (mRNA → polypeptide at the ribosome) (1 mark)",
+        "Explains the role of tRNA in bringing amino acids to the ribosome (1 mark)"
+      ]
+    },
+    {
+      "type": "short-answer",
+      "question": "How does fertilisation contribute to genetic diversity in sexually reproducing organisms? (3 marks)",
+      "answer": "Fertilisation contributes to genetic diversity by combining genetic material from two parents, resulting in unique offspring. The random fusion of gametes further increases variation, as each sperm and egg carries different combinations of alleles due to meiosis. Additionally, processes such as independent assortment and crossing over during meiosis increase the genetic variation present in gametes.",
+      "criteria": [
+        "Explains that fertilisation combines genetic material from two parents (1 mark)",
+        "Describes how random fusion of gametes increases variation (1 mark)",
+        "Mentions independent assortment and crossing over as contributors to diversity (1 mark)"
+      ]
+    },
+    {
+      "type": "short-answer",
+      "question": "Explain how mutations can impact an organism and give an example. (3 marks)",
+      "answer": "Mutations are changes in the DNA sequence that can be beneficial, harmful, or neutral. A beneficial mutation may provide an advantage, such as antibiotic resistance in bacteria. A harmful mutation can cause genetic disorders, such as sickle cell anemia. Some mutations are neutral and do not affect an organism’s survival.",
+      "criteria": [
+        "Defines mutations as changes in DNA (1 mark)",
+        "Explains that mutations can be beneficial, harmful, or neutral (1 mark)",
+        "Provides a relevant example of a beneficial or harmful mutation (1 mark)"
+      ]
+    },
+    {
+      "type": "short-answer",
+      "question": "Explain the key differences between mitosis and meiosis and describe their significance. (4 marks)",
+      "answer": "Mitosis and meiosis are both processes of cell division, but they differ in function and outcome. Mitosis produces two genetically identical diploid cells, used for growth, repair, and asexual reproduction. Meiosis, in contrast, produces four genetically diverse haploid gametes for sexual reproduction. Meiosis also involves crossing over and independent assortment, increasing genetic variation, which is essential for evolution and adaptation.",
+      "criteria": [
+        "Identifies mitosis produces two diploid cells that are genetically identical (1 mark)",
+        "Identifies meiosis produces four haploid gametes that are genetically diverse (1 mark)",
+        "Explains the role of mitosis in growth and repair and meiosis in reproduction (1 mark)",
+        "Describes how meiosis increases genetic variation through crossing over and independent assortment (1 mark)"
+      ]
+    },
+    {
+      "type": "short-answer",
+      "question": "Describe the structure of DNA and explain how it allows for accurate replication. (4 marks)",
+      "answer": "DNA is a double-helix structure made up of nucleotides, each containing a phosphate, deoxyribose sugar, and a nitrogenous base. The bases pair specifically: adenine (A) with thymine (T), and cytosine (C) with guanine (G). This complementary base pairing ensures that when DNA replicates, each strand serves as a template for a new strand, allowing for accurate copying. DNA polymerase then adds nucleotides, ensuring minimal errors, maintaining genetic stability.",
+      "criteria": [
+        "Describes the double-helix structure of DNA (1 mark)",
+        "Identifies nucleotides and their components (phosphate, sugar, base) (1 mark)",
+        "Explains complementary base pairing (A-T, C-G) in replication (1 mark)",
+        "Describes the role of DNA polymerase in ensuring accuracy (1 mark)"
+      ]
+    },
+    {
+      "type": "short-answer",
+      "question": "Explain how mutations contribute to genetic variation and provide an example. (4 marks)",
+      "answer": "Mutations are changes in the DNA sequence that introduce genetic variation. They may be beneficial, harmful, or neutral. Beneficial mutations can increase survival, while harmful mutations can cause diseases. Mutations in gametes can be inherited, affecting future generations, while mutations in somatic cells affect only the individual. An example is antibiotic resistance in bacteria, where mutations enable bacteria to survive antibiotic treatment, increasing their chances of reproduction.",
+      "criteria": [
+        "Defines mutations as changes in DNA (1 mark)",
+        "Explains that mutations can be beneficial, harmful, or neutral (1 mark)",
+        "Differentiates between mutations in gametes (inheritable) and somatic cells (non-inheritable) (1 mark)",
+        "Provides an example (e.g., antibiotic resistance in bacteria) (1 mark)"
+      ]
+    },
+    {
+      "type": "short-answer",
+      "question": "Describe the process of polypeptide synthesis and explain how it is regulated. (4 marks)",
+      "answer": "Polypeptide synthesis occurs in two steps: transcription and translation. During transcription, DNA is copied into mRNA in the nucleus. The mRNA then moves to a ribosome for translation, where tRNA brings amino acids that are linked together to form a polypeptide. Gene expression is regulated through factors such as promoters and repressors, which control when and how much protein is produced. Environmental factors like temperature or chemicals can also influence this regulation.",
+      "criteria": [
+        "Describes transcription (DNA → mRNA in nucleus) (1 mark)",
+        "Describes translation (mRNA → polypeptide at ribosome) (1 mark)",
+        "Explains the role of tRNA in bringing amino acids (1 mark)",
+        "Explains how gene expression is regulated (e.g., promoters, repressors, environmental factors) (1 mark)"
+      ]
+    },
+    {
+      "type": "short-answer",
+      "question": "Explain how biotechnology has been used to manipulate genetic inheritance in agriculture. (4 marks)",
+      "answer": "Biotechnology allows scientists to modify the genetic makeup of crops and livestock to enhance desirable traits. Genetic engineering involves inserting genes for traits like pest resistance (e.g., Bt cotton) or drought tolerance into crops. Selective breeding is another technique, where organisms with desired traits are bred to enhance those characteristics. This benefits agriculture by increasing crop yield, reducing pesticide use, and improving food security.",
+      "criteria": [
+        "Describes genetic engineering (e.g., inserting beneficial genes into crops) (1 mark)",
+        "Provides an example (e.g., Bt cotton for pest resistance, drought-resistant crops) (1 mark)",
+        "Explains selective breeding to enhance traits (1 mark)",
+        "Discusses agricultural benefits (e.g., increased yield, reduced pesticide use, improved food security) (1 mark)"
+      ]
+    },
+    {
+      "type": "short-answer",
+      "question": "Explain how meiosis and fertilisation contribute to genetic diversity in sexually reproducing organisms. (5 marks)",
+      "answer": "Meiosis contributes to genetic diversity through crossing over during prophase I, where homologous chromosomes exchange genetic material, and independent assortment, which results in different combinations of alleles in gametes. Additionally, random fertilisation further increases variation, as any sperm can fertilise any egg, producing unique offspring. These processes create genetically diverse individuals, which is essential for evolution and species survival.",
+      "criteria": [
+        "Identifies crossing over in prophase I as a source of genetic variation (1 mark)",
+        "Explains independent assortment and how it increases variation (1 mark)",
+        "Describes random fertilisation as an additional source of variation (1 mark)",
+        "Explains how these processes contribute to genetic diversity in a population (1 mark)",
+        "Links genetic diversity to evolution and species survival (1 mark)"
+      ]
+    },
+    {
+      "type": "short-answer",
+      "question": "Describe the structure and function of DNA, and explain how its structure allows for accurate replication. (5 marks)",
+      "answer": "DNA is a double-helix structure, composed of nucleotides, each containing a phosphate, deoxyribose sugar, and nitrogenous base. The bases follow complementary base pairing (A-T, C-G), which ensures accurate replication. During DNA replication, helicase unwinds the helix, and DNA polymerase adds complementary nucleotides to form two identical DNA molecules. This process is essential for maintaining genetic stability and inheritance.",
+      "criteria": [
+        "Describes the double-helix structure of DNA (1 mark)",
+        "Identifies the components of a nucleotide (phosphate, sugar, base) (1 mark)",
+        "Explains complementary base pairing (A-T, C-G) (1 mark)",
+        "Describes how helicase and DNA polymerase facilitate replication (1 mark)",
+        "Explains the importance of accurate replication for genetic stability (1 mark)"
+      ]
+    },
+    {
+      "type": "short-answer",
+      "question": "Discuss the role of mutations in evolution and provide an example. (5 marks)",
+      "answer": "Mutations are changes in DNA sequences that contribute to genetic variation. Some mutations are beneficial, increasing an organism’s survival and reproduction, while others are harmful or neutral. Beneficial mutations can drive natural selection, leading to the evolution of species. For example, peppered moths evolved darker coloration during the Industrial Revolution due to a mutation that provided better camouflage in polluted environments. Over time, this mutation became more common in the population.",
+      "criteria": [
+        "Defines mutations as changes in DNA (1 mark)",
+        "Explains how mutations introduce genetic variation (1 mark)",
+        "Discusses how natural selection favors beneficial mutations (1 mark)",
+        "Describes the role of mutations in long-term evolution (1 mark)",
+        "Provides an example (e.g., peppered moths, antibiotic resistance in bacteria) (1 mark)"
+      ]
+    },
+    {
+      "type": "short-answer",
+      "question": "Explain the process of transcription and translation in polypeptide synthesis and describe how gene expression is regulated. (5 marks)",
+      "answer": "Polypeptide synthesis occurs in two stages: transcription and translation. In transcription, DNA is copied into mRNA in the nucleus. RNA polymerase unwinds the DNA and synthesizes mRNA using complementary base pairing. The mRNA then moves to a ribosome, where translation occurs. During translation, tRNA brings amino acids, which are joined by ribosomes to form a polypeptide. Gene expression is regulated by promoters and repressors, which control when genes are turned on or off. Environmental factors like temperature or chemicals can also influence gene expression.",
+      "criteria": [
+        "Describes transcription (DNA → mRNA in the nucleus) (1 mark)",
+        "Explains the role of RNA polymerase in mRNA synthesis (1 mark)",
+        "Describes translation (mRNA → polypeptide at the ribosome) (1 mark)",
+        "Explains tRNA's role in bringing amino acids to form a polypeptide (1 mark)",
+        "Describes gene regulation (e.g., promoters, repressors, environmental factors) (1 mark)"
+      ]
+    },
+    {
+      "type": "short-answer",
+      "question": "Outline two genetic technologies used in agriculture and discuss their benefits and ethical concerns. (5 marks)",
+      "answer": "Two genetic technologies used in agriculture are genetic engineering and selective breeding. Genetic engineering involves inserting foreign genes into crops to improve traits, such as Bt cotton, which produces insect-resistant proteins. Selective breeding involves choosing parent organisms with desirable traits to increase yield or disease resistance. These technologies increase food production and reduce pesticide use, but ethical concerns include the potential for reduced genetic diversity, environmental risks, and long-term health effects.",
+      "criteria": [
+        "Identifies genetic engineering as a genetic technology (1 mark)",
+        "Identifies selective breeding as a genetic technology (1 mark)",
+        "Describes an example of genetic engineering (e.g., Bt cotton) (1 mark)",
+        "Explains the benefits of these technologies (e.g., increased yield, pest resistance) (1 mark)",
+        "Discusses ethical concerns (e.g., reduced diversity, environmental impact, health risks) (1 mark)"
+      ]
+    },
+    {
+      "type": "long-answer",
+      "question": "Explain the process of meiosis and its role in genetic variation. (10 marks)\n(i) Identify four key differences between mitosis and meiosis. (4 marks)\n(ii) Describe the process of crossing over and its significance. (2 marks)\n(iii) Explain how independent assortment increases genetic variation. (2 marks)\n(iv) Discuss why genetic variation is important for species survival. (2 marks)",
+      "answer": "(i) Differences between mitosis and meiosis:\n- Mitosis has one division, while meiosis has two divisions.\n- Mitosis produces two diploid cells, whereas meiosis produces four haploid cells.\n- Mitosis creates genetically identical cells, but meiosis introduces genetic variation.\n- Mitosis is for growth and repair, while meiosis is for sexual reproduction.\n(ii) Crossing over occurs in Prophase I, where homologous chromosomes exchange genetic material at chiasmata, creating new allele combinations. This increases genetic diversity in gametes.\n(iii) Independent assortment in Metaphase I results in random alignment of homologous chromosomes, leading to varied genetic combinations in offspring.\n(iv) Genetic variation helps species adapt to environmental changes, increasing their survival and reducing the likelihood of genetic diseases.",
+      "criteria": [
+        "1 mark per correctly explained difference (4 marks)",
+        "1 mark for describing the process of crossing over (1 mark)",
+        "1 mark for explaining how crossing over increases genetic variation (1 mark)",
+        "1 mark for defining independent assortment (1 mark)",
+        "1 mark for explaining its role in genetic variation (1 mark)",
+        "1 mark for adaptability (1 mark)",
+        "1 mark for reducing genetic disease risk (1 mark)"
+      ]
+    },
+    {
+      "type": "long-answer",
+      "question": "Describe the process of polypeptide synthesis and how gene expression is regulated. (10 marks)\n(i) Outline the steps of transcription and translation. (4 marks)\n(ii) Explain the role of mRNA and tRNA in protein synthesis. (2 marks)\n(iii) Describe one way gene expression is regulated. (2 marks)\n(iv) Provide an example of gene regulation and explain its importance. (2 marks)",
+      "answer": "(i) Polypeptide synthesis occurs in two stages:\n- Transcription in the nucleus produces an mRNA strand using RNA polymerase.\n- The mRNA is processed before leaving the nucleus.\n- Translation occurs at the ribosome, where tRNA brings amino acids to form a polypeptide chain.\n(ii) mRNA carries genetic instructions from DNA to ribosomes, while tRNA brings amino acids to assemble the protein.\n(iii) Transcription factors regulate gene expression by enhancing or suppressing RNA polymerase binding, ensuring that genes are only activated when necessary.\n(iv) The lac operon regulates lactose metabolism in bacteria, allowing them to conserve energy by only producing enzymes when needed.",
+      "criteria": [
+        "1 mark per correctly explained step of transcription and translation (4 marks)",
+        "1 mark for mRNA’s role (1 mark)",
+        "1 mark for tRNA’s role (1 mark)",
+        "1 mark for identifying a gene regulation mechanism (1 mark)",
+        "1 mark for explaining how it functions (1 mark)",
+        "1 mark for naming a gene regulation system (1 mark)",
+        "1 mark for explaining its importance (1 mark)"
+      ]
+    },
+    {
+      "type": "long-answer",
+      "question": "Explain different types of inheritance patterns and their genetic implications. (10 marks)\n(i) Define autosomal dominant, autosomal recessive, and sex-linked inheritance. (4 marks)\n(ii) Explain the role of Punnett squares in predicting inheritance patterns. (2 marks)\n(iii) Describe the concept of co-dominance and provide an example. (2 marks)\n(iv) Discuss why sex-linked disorders are more common in males. (2 marks)",
+      "answer": "(i) Inheritance types:\n- Autosomal dominant: One dominant allele needed (e.g., Huntington’s disease).\n- Autosomal recessive: Two recessive alleles needed (e.g., cystic fibrosis).\n- Sex-linked inheritance: Carried on the X or Y chromosome (e.g., hemophilia).\n- Carrier status: Individuals with one recessive allele in autosomal recessive and X-linked recessive traits can pass the disorder but do not express it.\n(ii) Punnett squares show how alleles combine in offspring, helping predict genetic probabilities and inheritance patterns.\n(iii) Co-dominance occurs when both alleles are fully expressed, such as AB blood type, where both A and B alleles appear in the phenotype.\n(iv) Sex-linked disorders are more common in males because they only have one X chromosome, so recessive traits are automatically expressed, whereas females can be carriers without showing symptoms.",
+      "criteria": [
+        "1 mark for defining autosomal dominant inheritance (1 mark)",
+        "1 mark for defining autosomal recessive inheritance (1 mark)",
+        "1 mark for defining sex-linked inheritance (1 mark)",
+        "1 mark for explaining carrier status (1 mark)",
+        "1 mark for describing function of Punnett squares (1 mark)",
+        "1 mark for explaining role in predicting inheritance patterns (1 mark)",
+        "1 mark for defining co-dominance (1 mark)",
+        "1 mark for providing a correct example of co-dominance (1 mark)",
+        "1 mark for explaining X chromosome inheritance (1 mark)",
+        "1 mark for linking it to expression of recessive alleles (1 mark)"
+      ]
+    },
+    {
+      "type": "long-answer",
+      "question": "Discuss the impact of biotechnology on genetic inheritance and ethical considerations. (10 marks)\n(i) Explain genetic engineering and how it is used in modifying inheritance. (4 marks)\n(ii) Describe two examples of genetic technologies used in agriculture or medicine. (4 marks)\n(iii) Discuss one ethical concern associated with genetic modification. (2 marks)",
+      "answer": "(i) Genetic engineering modifies DNA to change inheritance patterns.\n- CRISPR technology allows precise gene edits.\n- GMO crops like Bt cotton resist pests without pesticide use.\n- Gene therapy helps correct inherited disorders by modifying faulty genes.\n(ii) Two genetic technologies:\n- Bt Crops: Genetic modification makes crops pest-resistant, improving yield and reducing pesticide use.\n- Gene therapy: Introduces functional genes into a patient’s DNA to treat inherited diseases, like sickle cell disease.\n(iii) One ethical concern:\n- Genetic modification may reduce biodiversity, leading to a higher risk of entire crop populations being wiped out by new diseases.",
+      "criteria": [
+        "1 mark for defining genetic engineering (1 mark)",
+        "1 mark for explaining CRISPR technology (1 mark)",
+        "1 mark for providing an example (GMO or gene therapy) (1 mark)",
+        "1 mark for explaining the impact on inheritance (1 mark)",
+        "2 marks for correctly explaining Bt crops (2 marks)",
+        "2 marks for correctly explaining gene therapy (2 marks)",
+        "1 mark for stating an ethical issue (1 mark)",
+        "1 mark for explaining its impact (1 mark)"
+      ]
+    },
+    {
+      "type": "long-answer",
+      "question": "Explain how mutations can affect genetic inheritance and contribute to evolution. (10 marks)\n(i) Define mutations and describe three types of mutations. (4 marks)\n(ii) Explain how mutations contribute to genetic variation. (2 marks)\n(iii) Discuss how natural selection acts on mutations to drive evolution. (2 marks)\n(iv) Provide an example of a beneficial mutation that has contributed to evolution. (2 marks)",
+      "answer": "(i) Types of mutations:\n- Point mutation: A single nucleotide change, which can be silent, missense, or nonsense.\n- Frameshift mutation: Alters the reading frame, affecting the entire protein.\n- Chromosomal mutation: Large-scale structural changes, such as duplications or deletions.\n(ii) Mutations introduce new alleles that increase genetic diversity, enabling adaptation to changing environments.\n(iii) Natural selection favors beneficial mutations, leading to higher survival and reproduction rates, gradually shaping populations over generations.\n(iv) The sickle cell mutation provides malaria resistance, benefiting individuals in malaria-prone areas, demonstrating how mutations can shape species over time.",
+      "criteria": [
+        "1 mark for defining mutation (1 mark)",
+        "1 mark each for three correctly explained types (3 marks)",
+        "1 mark for explaining how mutations introduce new alleles (1 mark)",
+        "1 mark for explaining how mutations increase genetic diversity (1 mark)",
+        "1 mark for explaining natural selection (1 mark)",
+        "1 mark for how mutations accumulate in populations (1 mark)",
+        "1 mark for naming a beneficial mutation (1 mark)",
+        "1 mark for explaining its evolutionary significance (1 mark)"
+      ]
+    },
+    {
+      "type": "long-answer",
+      "question": "Discuss the significance of reproductive technologies in agriculture and human health. (10 marks)\n(i) Define reproductive technologies and describe two types used in agriculture. (4 marks)\n(ii) Explain how assisted reproductive technologies (ART) are used in human health. (2 marks)\n(iii) Discuss the advantages of using reproductive technologies in agriculture. (2 marks)\n(iv) Identify one ethical concern related to reproductive technologies and explain its significance. (2 marks)",
+      "answer": "(i) Types of reproductive technologies in agriculture:\n- Selective breeding: Choosing parents to pass on desired traits, such as higher milk production in cattle.\n- Artificial insemination: Improves breeding efficiency and genetic diversity by introducing sperm without natural mating.\n(ii) Assisted reproductive technologies (ART) like IVF allow couples struggling with infertility to conceive by fertilizing eggs outside the body before implantation.\n(iii) Advantages in agriculture:\n- Boosts crop yields and reduces reliance on pesticides.\n- Improves livestock health, making them more resistant to environmental stresses.\n(iv) Ethical concern:\n- The possibility of genetically modifying human embryos raises social and moral dilemmas, as it could lead to inequality and unintended genetic consequences.",
+      "criteria": [
+        "1 mark for defining reproductive technology (1 mark)",
+        "1 mark each for two correctly explained types (2 marks)",
+        "1 mark for identifying ART (1 mark)",
+        "1 mark for explaining its function (e.g., IVF) (1 mark)",
+        "1 mark for increasing food production (1 mark)",
+        "1 mark for improving genetic diversity (1 mark)",
+        "1 mark for identifying an ethical issue (1 mark)",
+        "1 mark for explaining its significance (1 mark)"
+      ]
+    },
+    {
+      "type": "long-answer",
+      "question": "Explain the importance of cell replication in the continuity of species. (10 marks)\n(i) Describe the process of DNA replication and its significance in cell division. (4 marks)\n(ii) Explain the role of mitosis in maintaining genetic stability. (2 marks)\n(iii) Discuss the consequences of errors in DNA replication. (2 marks)\n(iv) Explain how cell replication contributes to the survival of multicellular organisms. (2 marks)",
+      "answer": "(i) DNA replication ensures genetic continuity by producing an exact copy of the DNA before cell division.\n- DNA helicase unwinds the DNA and separates strands.\n- DNA polymerase adds nucleotides, forming complementary strands.\n- The leading strand is synthesized continuously, while the lagging strand is made in fragments.\n- DNA ligase joins the fragments, ensuring two identical DNA molecules.\n(ii) Mitosis maintains genetic stability by ensuring each daughter cell receives an exact copy of DNA, supporting growth, repair, and cellular function.\n(iii) Errors in DNA replication can lead to mutations, which may cause genetic disorders like cancer or cell dysfunction.\n(iv) Cell replication is essential for repairing damaged cells, immune responses, and replacing old cells, ensuring the survival of complex organisms.",
+      "criteria": [
+        "1 mark for initiation (helicase unwinding DNA) (1 mark)",
+        "1 mark for elongation (DNA polymerase adding nucleotides) (1 mark)",
+        "1 mark for leading/lagging strand explanation (1 mark)",
+        "1 mark for termination and genetic continuity (1 mark)",
+        "1 mark for explaining identical daughter cells (1 mark)",
+        "1 mark for linking mitosis to growth and repair (1 mark)",
+        "1 mark for explaining mutations (1 mark)",
+        "1 mark for linking errors to disorders/diseases (1 mark)",
+        "1 mark for describing cell replacement (1 mark)",
+        "1 mark for linking to tissue maintenance (1 mark)"
+      ]
+    },
+    {
+      "type": "long-answer",
+      "question": "Discuss the role of population genetics in understanding inheritance patterns and evolution. (10 marks)\n(i) Define population genetics and explain how allele frequencies change over time. (4 marks)\n(ii) Explain the significance of the Hardy-Weinberg principle in population genetics. (2 marks)\n(iii) Discuss how genetic technologies help scientists study population genetics. (2 marks)\n(iv) Provide an example of how population genetics has contributed to conservation efforts. (2 marks)",
+      "answer": "(i) Population genetics studies how allele frequencies change due to natural selection, genetic drift, and gene flow.\n- Natural selection increases beneficial alleles.\n- Genetic drift randomly affects allele frequencies, often reducing variation.\n- Gene flow introduces new alleles, maintaining diversity.\n(ii) The Hardy-Weinberg principle predicts allele stability in non-evolving populations but helps detect evolutionary changes when violated.\n(iii) Genetic technologies like DNA sequencing track inherited traits, study disease patterns, and provide insight into species evolution.\n(iv) Population genetics supports conservation by ensuring genetic diversity in breeding programs, such as increasing genetic variation in captive cheetahs to prevent extinction.",
+      "criteria": [
+        "1 mark for defining population genetics (1 mark)",
+        "1 mark for natural selection explanation (1 mark)",
+        "1 mark for genetic drift explanation (1 mark)",
+        "1 mark for gene flow explanation (1 mark)",
+        "1 mark for defining the Hardy-Weinberg principle (1 mark)",
+        "1 mark for linking it to population changes (1 mark)",
+        "1 mark for naming a genetic technology (1 mark)",
+        "1 mark for explaining its significance (1 mark)",
+        "1 mark for identifying conservation use (1 mark)",
+        "1 mark for explaining its impact on species survival (1 mark)"
+      ]
+    }
+
+  ]
+}

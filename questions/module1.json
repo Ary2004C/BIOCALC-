@@ -1,0 +1,657 @@
+{
+  "module1": [
+    {
+      "type": "multiple-choice",
+      "question": "Which of the following structures is found in both prokaryotic and eukaryotic cells? (1 mark)",
+      "options": ["Nucleus", "Mitochondria", "Ribosomes", "Golgi apparatus"],
+      "answer": "Ribosomes",
+      "explanation": "Ribosomes are the only organelles present in both prokaryotic and eukaryotic cells, as they are essential for protein synthesis."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "The fluid mosaic model describes the structure of which cellular component? (1 mark)",
+      "options": ["Nucleus", "Cell membrane", "Mitochondria", "Cytoplasm"],
+      "answer": "Cell membrane",
+      "explanation": "The fluid mosaic model explains how the cell membrane is composed of a phospholipid bilayer with embedded proteins, allowing for flexibility and selective permeability."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which of the following best distinguishes a prokaryotic cell from a eukaryotic cell? (1 mark)",
+      "options": ["Presence of ribosomes", "Presence of membrane-bound organelles", "Presence of a cell membrane", "Ability to reproduce"],
+      "answer": "Presence of membrane-bound organelles",
+      "explanation": "Eukaryotic cells have membrane-bound organelles, such as the nucleus and mitochondria, whereas prokaryotic cells do not."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What is the function of the Golgi apparatus in a eukaryotic cell? (1 mark)",
+      "options": ["Synthesis of proteins", "Energy production", "Modifying, packaging, and transporting proteins", "Controlling cellular activities"],
+      "answer": "Modifying, packaging, and transporting proteins",
+      "explanation": "The Golgi apparatus processes, modifies, and packages proteins before they are transported to their final destinations within or outside the cell."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which of the following is an example of active transport? (1 mark)",
+      "options": ["Diffusion of oxygen into a cell", "Osmosis of water across a membrane", "Sodium-potassium pump in nerve cells", "Movement of glucose through a protein channel via facilitated diffusion"],
+      "answer": "Sodium-potassium pump in nerve cells",
+      "explanation": "Active transport requires energy (ATP) to move substances against their concentration gradient, as seen in the sodium-potassium pump."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "A cell placed in a hypotonic solution will: (1 mark)",
+      "options": ["Shrink due to water loss", "Remain the same size", "Swell due to water gain", "Undergo plasmolysis"],
+      "answer": "Swell due to water gain",
+      "explanation": "Water moves into the cell due to osmosis, causing it to swell and possibly burst."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which process allows large molecules to exit the cell via vesicles? (1 mark)",
+      "options": ["Diffusion", "Osmosis", "Exocytosis", "Endocytosis"],
+      "answer": "Exocytosis",
+      "explanation": "Exocytosis is the process by which vesicles transport large molecules out of the cell by fusing with the cell membrane."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Why is the surface-area-to-volume ratio important in cells? (1 mark)",
+      "options": ["It determines the genetic material of the cell", "It controls the rate of chemical reactions inside the cell", "It affects the efficiency of material exchange across the cell membrane", "It determines the shape of the cell"],
+      "answer": "It affects the efficiency of material exchange across the cell membrane",
+      "explanation": "A higher surface-area-to-volume ratio allows for more efficient diffusion of nutrients and waste removal."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What is the primary purpose of photosynthesis? (1 mark)",
+      "options": ["To break down glucose for energy", "To convert carbon dioxide into oxygen", "To convert light energy into chemical energy in the form of glucose", "To remove waste products from cells"],
+      "answer": "To convert light energy into chemical energy in the form of glucose",
+      "explanation": "Photosynthesis captures sunlight and converts it into chemical energy stored in glucose molecules."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which cellular organelle is primarily responsible for cellular respiration? (1 mark)",
+      "options": ["Chloroplast", "Nucleus", "Mitochondrion", "Ribosome"],
+      "answer": "Mitochondrion",
+      "explanation": "Mitochondria generate ATP through cellular respiration by breaking down glucose in the presence of oxygen."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Enzymes are biological catalysts that: (1 mark)",
+      "options": ["Speed up chemical reactions by lowering activation energy", "Are used up in a reaction", "Work best at any temperature", "Cannot be affected by pH levels"],
+      "answer": "Speed up chemical reactions by lowering activation energy",
+      "explanation": "Enzymes accelerate biochemical reactions by lowering the activation energy required for reactions to occur."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What is the role of ATP in the cell? (1 mark)",
+      "options": ["It stores and transports energy within the cell", "It is a structural component of the cell membrane", "It helps in protein synthesis", "It carries genetic information"],
+      "answer": "It stores and transports energy within the cell",
+      "explanation": "ATP is the primary energy carrier in cells, providing the necessary energy for cellular processes."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which of the following would be the best way to observe the internal structure of a cell? (1 mark)",
+      "options": ["Light microscope", "X-ray machine", "Electron microscope", "Magnifying glass"],
+      "answer": "Electron microscope",
+      "explanation": "Electron microscopes provide high-resolution images needed to observe the detailed internal structures of cells."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What is the main ethical consideration when conducting a biological experiment on live cells? (1 mark)",
+      "options": ["The time required for the experiment", "Ensuring safety and minimizing harm", "The number of cells used in the study", "The cost of laboratory equipment"],
+      "answer": "Ensuring safety and minimizing harm",
+      "explanation": "Ethical research requires minimizing harm to living organisms and ensuring humane treatment in experiments."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "When conducting an enzyme experiment, which of the following variables would most likely affect enzyme activity? (1 mark)",
+      "options": ["Light intensity", "Temperature and pH", "The number of cells in the experiment", "The type of microscope used"],
+      "answer": "Temperature and pH",
+      "explanation": "Enzymes function within specific temperature and pH ranges; extreme conditions can denature them and hinder their activity."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which of the following structures is responsible for protein synthesis in the cell? (1 mark)",
+      "options": ["Golgi apparatus", "Ribosome", "Lysosome", "Mitochondrion"],
+      "answer": "Ribosome",
+      "explanation": "Ribosomes assemble amino acids into proteins, following instructions from messenger RNA."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "The main function of the nucleus in a eukaryotic cell is to: (1 mark)",
+      "options": ["Control cell activities and store genetic information", "Produce energy for the cell", "Transport materials within the cell", "Break down waste materials"],
+      "answer": "Control cell activities and store genetic information",
+      "explanation": "The nucleus contains DNA, which regulates cellular functions and gene expression."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which organelle is responsible for breaking down waste materials and cellular debris? (1 mark)",
+      "options": ["Mitochondrion", "Lysosome", "Ribosome", "Endoplasmic reticulum"],
+      "answer": "Lysosome",
+      "explanation": "Lysosomes contain digestive enzymes that break down cellular waste and damaged organelles."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which of the following structures is present in plant cells but NOT in animal cells? (1 mark)",
+      "options": ["Mitochondria", "Cell wall", "Endoplasmic reticulum", "Golgi apparatus"],
+      "answer": "Cell wall",
+      "explanation": "Plant cells have a rigid cell wall made of cellulose, which provides structural support."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Facilitated diffusion differs from simple diffusion in that: (1 mark)",
+      "options": ["It requires energy", "It occurs against the concentration gradient", "It uses transport proteins to move molecules across the membrane", "It only occurs in plant cells"],
+      "answer": "It uses transport proteins to move molecules across the membrane",
+      "explanation": "Facilitated diffusion relies on transport proteins to move substances across the membrane without using energy."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "The movement of water molecules across a semi-permeable membrane is called: (1 mark)",
+      "options": ["Diffusion", "Active transport", "Osmosis", "Endocytosis"],
+      "answer": "Osmosis",
+      "explanation": "Osmosis is the diffusion of water molecules through a semi-permeable membrane from a lower solute concentration to a higher one."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "If a red blood cell is placed in a hypertonic solution, what will happen to the cell? (1 mark)",
+      "options": ["It will swell and burst", "It will shrink due to water loss", "It will remain the same size", "It will divide"],
+      "answer": "It will shrink due to water loss",
+      "explanation": "Water moves out of the cell, causing it to shrink (crenation) due to osmosis."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "The term 'semi-permeable' in reference to the cell membrane means: (1 mark)",
+      "options": ["Only water can pass through", "It allows all substances to pass freely", "It allows only certain substances to pass through", "It prevents all molecules from entering or leaving"],
+      "answer": "It allows only certain substances to pass through",
+      "explanation": "The cell membrane regulates the movement of substances, allowing selective entry and exit."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which stage of cellular respiration occurs in the cytoplasm? (1 mark)",
+      "options": ["Glycolysis", "Krebs cycle", "Electron transport chain", "Photosynthesis"],
+      "answer": "Glycolysis",
+      "explanation": "Glycolysis is the first stage of cellular respiration, occurring in the cytoplasm, where glucose is broken down into pyruvate."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What gas is required for aerobic cellular respiration? (1 mark)",
+      "options": ["Carbon dioxide", "Nitrogen", "Oxygen", "Hydrogen"],
+      "answer": "Oxygen",
+      "explanation": "Oxygen is essential for the electron transport chain, where most ATP is produced in aerobic respiration."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which of the following is a product of photosynthesis? (1 mark)",
+      "options": ["Oxygen and glucose", "Water and carbon dioxide", "ATP and lactic acid", "Oxygen and lactic acid"],
+      "answer": "Oxygen and glucose",
+      "explanation": "Photosynthesis produces glucose (stored chemical energy) and oxygen as a byproduct."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which molecule is considered the 'energy currency' of the cell? (1 mark)",
+      "options": ["DNA", "ATP", "Glucose", "RNA"],
+      "answer": "ATP",
+      "explanation": "ATP stores and provides energy for various cellular functions, making it the primary energy currency."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What is the primary role of chlorophyll in photosynthesis? (1 mark)",
+      "options": ["To absorb water", "To produce glucose", "To capture light energy", "To store oxygen"],
+      "answer": "To capture light energy",
+      "explanation": "Chlorophyll absorbs light energy, which is essential for converting carbon dioxide and water into glucose during photosynthesis."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "When conducting an experiment, why is it important to use a control group? (1 mark)",
+      "options": ["To ensure every test subject gets the same treatment", "To eliminate the need for repeated trials", "To provide a standard for comparison against experimental conditions", "To increase the number of variables in the experiment"],
+      "answer": "To provide a standard for comparison against experimental conditions",
+      "explanation": "A control group ensures that any observed effects in the experiment are due to the independent variable and not other factors."
+    },
+       {
+          "type": "multiple-choice",
+          "question": "A student is testing the effect of pH on enzyme activity. What is the independent variable in this experiment? (1 mark)",
+          "options": ["The enzyme concentration", "The pH level", "The amount of product formed", "The temperature"],
+          "answer": "The pH level",
+          "explanation": "The independent variable is the one that is intentionally changed to observe its effects, in this case, the pH level."
+        },
+        {
+          "type": "multiple-choice",
+          "question": "Which of the following is a qualitative observation? (1 mark)",
+          "options": ["The temperature of the water is 25°C", "The leaf is green", "The enzyme activity increased by 20%", "The solution contains 3.5 moles of solute"],
+          "answer": "The leaf is green",
+          "explanation": "Qualitative observations describe characteristics without numerical measurements, such as color, texture, or smell."
+        },
+        {
+          "type": "multiple-choice",
+          "question": "A student wants to determine the effect of temperature on the rate of diffusion. Which would be an appropriate hypothesis? (1 mark)",
+          "options": ["Diffusion occurs faster at lower temperatures", "Diffusion is not affected by temperature", "If temperature increases, the rate of diffusion will also increase", "The volume of the solution will change due to temperature"],
+          "answer": "If temperature increases, the rate of diffusion will also increase",
+          "explanation": "A hypothesis is a testable statement predicting the relationship between variables, and diffusion typically increases with temperature."
+        },
+        {
+          "type": "multiple-choice",
+          "question": "Why do scientists repeat experiments multiple times? (1 mark)",
+          "options": ["To make the results look more impressive", "To ensure the results are reliable and reproducible", "To get different results each time", "To prove their hypothesis is correct"],
+          "answer": "To ensure the results are reliable and reproducible",
+          "explanation": "Repeating experiments reduces errors and increases confidence in the accuracy and consistency of results."
+        },
+        {
+          "type": "multiple-choice",
+          "question": "What is the main difference between smooth and rough endoplasmic reticulum (ER)? (1 mark)",
+          "options": ["Smooth ER produces proteins, while rough ER synthesizes lipids", "Rough ER is covered in ribosomes, while smooth ER lacks ribosomes", "Rough ER is found only in animal cells, while smooth ER is found only in plant cells", "Smooth ER transports proteins, while rough ER modifies carbohydrates"],
+          "answer": "Rough ER is covered in ribosomes, while smooth ER lacks ribosomes",
+          "explanation": "The rough ER has ribosomes on its surface for protein synthesis, while the smooth ER is involved in lipid synthesis and detoxification."
+        },
+        {
+          "type": "multiple-choice",
+          "question": "Which of the following cell structures is responsible for producing ATP? (1 mark)",
+          "options": ["Chloroplast", "Mitochondrion", "Lysosome", "Golgi apparatus"],
+          "answer": "Mitochondrion",
+          "explanation": "Mitochondria are known as the 'powerhouse of the cell' because they generate ATP through cellular respiration."
+        },
+        {
+          "type": "multiple-choice",
+          "question": "Which component of the cell membrane is primarily responsible for selective permeability? (1 mark)",
+          "options": ["Cholesterol molecules", "Phospholipid bilayer", "Peripheral proteins", "DNA"],
+          "answer": "Phospholipid bilayer",
+          "explanation": "The phospholipid bilayer controls what enters and exits the cell, allowing selective permeability."
+        },
+        {
+          "type": "multiple-choice",
+          "question": "Which structure serves as the site of ribosomal RNA (rRNA) synthesis in eukaryotic cells? (1 mark)",
+          "options": ["Nucleolus", "Rough endoplasmic reticulum", "Mitochondria", "Golgi apparatus"],
+          "answer": "Nucleolus",
+          "explanation": "The nucleolus is a dense region in the nucleus where ribosomal RNA is synthesized and assembled into ribosomes."
+        },
+        {
+          "type": "multiple-choice",
+          "question": "Which type of transport does NOT require energy? (1 mark)",
+          "options": ["Active transport", "Endocytosis", "Osmosis", "Exocytosis"],
+          "answer": "Osmosis",
+          "explanation": "Osmosis is the passive movement of water across a membrane and does not require cellular energy."
+        },
+        {
+          "type": "multiple-choice",
+          "question": "A plant cell placed in a hypotonic solution will: (1 mark)",
+          "options": ["Become turgid due to water intake", "Shrink due to water loss", "Stay the same size", "Undergo plasmolysis"],
+          "answer": "Become turgid due to water intake",
+          "explanation": "Water enters the plant cell, increasing pressure inside the cell, making it firm or turgid."
+        },
+        {
+          "type": "multiple-choice",
+          "question": "What is the main function of carrier proteins in the cell membrane? (1 mark)",
+          "options": ["They store energy", "They help transport molecules across the membrane", "They produce ATP", "They create the lipid bilayer"],
+          "answer": "They help transport molecules across the membrane",
+          "explanation": "Carrier proteins facilitate the movement of substances across the membrane, either passively or actively."
+        },
+        {
+          "type": "multiple-choice",
+          "question": "Which of the following factors affects the rate of diffusion across a membrane? (1 mark)",
+          "options": ["Temperature", "Surface-area-to-volume ratio", "Concentration gradient", "All of the above"],
+          "answer": "All of the above",
+          "explanation": "Temperature, surface-area-to-volume ratio, and concentration gradients all influence the rate of diffusion."
+        },
+        {
+          "type": "multiple-choice",
+          "question": "What is the main function of enzymes in biological systems? (1 mark)",
+          "options": ["To slow down chemical reactions", "To provide energy for cellular processes", "To speed up chemical reactions by lowering activation energy", "To transport molecules across membranes"],
+          "answer": "To speed up chemical reactions by lowering activation energy",
+          "explanation": "Enzymes act as biological catalysts, reducing the activation energy required for reactions to proceed."
+        },
+        {
+          "type": "multiple-choice",
+          "question": "Which factor does NOT affect enzyme activity? (1 mark)",
+          "options": ["Temperature", "pH", "Substrate concentration", "Presence of mitochondria"],
+          "answer": "Presence of mitochondria",
+          "explanation": "Enzyme activity is affected by temperature, pH, and substrate concentration, but not directly by mitochondria."
+        },
+        {
+          "type": "multiple-choice",
+          "question": "The light-dependent reactions of photosynthesis occur in the: (1 mark)",
+          "options": ["Stroma", "Cytoplasm", "Thylakoid membranes", "Mitochondria"],
+          "answer": "Thylakoid membranes",
+          "explanation": "The thylakoid membranes in chloroplasts contain chlorophyll, which captures light energy for photosynthesis."
+        },
+        {
+          "type": "multiple-choice",
+          "question": "Which molecule is the final electron acceptor in aerobic cellular respiration? (1 mark)",
+          "options": ["Carbon dioxide", "Oxygen", "Glucose", "ATP"],
+          "answer": "Oxygen",
+          "explanation": "Oxygen acts as the final electron acceptor in the electron transport chain, allowing ATP production to continue."
+        },
+        {
+          "type": "multiple-choice",
+          "question": "What is the main purpose of cellular respiration? (1 mark)",
+          "options": ["To produce glucose", "To produce ATP for cellular energy", "To store energy in the form of starch", "To absorb carbon dioxide from the air"],
+          "answer": "To produce ATP for cellular energy",
+          "explanation": "Cellular respiration converts glucose into ATP, which provides energy for cellular functions."
+        },
+        {
+          "type": "multiple-choice",
+          "question": "Which of the following is an example of a quantitative observation? (1 mark)",
+          "options": ["The leaves are green", "The solution has a pH of 5", "The enzyme reaction was faster than expected", "The plant looks healthier"],
+          "answer": "The solution has a pH of 5",
+          "explanation": "Quantitative observations include numerical data, such as measurements of pH, temperature, or concentration."
+        },
+        {
+          "type": "multiple-choice",
+          "question": "Which statement best describes a hypothesis? (1 mark)",
+          "options": ["A proven fact about the natural world", "A statement that can be tested through experimentation", "A guess about what might happen in an experiment", "A conclusion drawn from previous research"],
+          "answer": "A statement that can be tested through experimentation",
+          "explanation": "A hypothesis is a testable prediction based on prior knowledge and observations."
+        },
+        {
+          "type": "multiple-choice",
+          "question": "Why is a control variable important in an experiment? (1 mark)",
+          "options": ["It provides a comparison for the experimental condition", "It changes throughout the experiment", "It ensures that the hypothesis is correct", "It is always the dependent variable"],
+          "answer": "It provides a comparison for the experimental condition",
+          "explanation": "Control variables remain constant to ensure that only the independent variable is influencing the results."
+        }, 
+        {
+          "type": "short-answer",
+          "question": "Compare the structure of prokaryotic and eukaryotic cells. (2 marks)",
+          "answer": "Prokaryotic cells lack a nucleus and membrane-bound organelles, with DNA floating freely in the cytoplasm. Eukaryotic cells have a nucleus and various membrane-bound organelles such as mitochondria and the Golgi apparatus.",
+          "criteria": [
+            "Mentions lack of nucleus and membrane-bound organelles in prokaryotic cells (1 mark)",
+            "Mentions presence of nucleus and membrane-bound organelles in eukaryotic cells (1 mark)"
+          ]
+        },
+        {
+          "type": "short-answer",
+          "question": "Explain how the structure of the cell membrane allows it to be selectively permeable. (2 marks)",
+          "answer": "The cell membrane consists of a phospholipid bilayer, which allows small, nonpolar molecules to pass freely while preventing larger or charged molecules from diffusing through. Embedded proteins regulate the passage of specific substances, maintaining selective permeability.",
+          "criteria": [
+            "Mentions phospholipid bilayer and its role (1 mark)",
+            "Mentions embedded proteins regulating substance passage (1 mark)"
+          ]
+        },
+        {
+          "type": "short-answer",
+          "question": "Describe the role of enzymes in biological reactions. (2 marks)",
+          "answer": "Enzymes act as biological catalysts by speeding up chemical reactions without being consumed. They do this by lowering the activation energy required for the reaction to occur.",
+          "criteria": [
+            "Mentions enzymes as biological catalysts (1 mark)",
+            "Mentions lowering activation energy (1 mark)"
+          ]
+        },
+        {
+          "type": "short-answer",
+          "question": "Explain how temperature affects enzyme activity. (2 marks)",
+          "answer": "As temperature increases, enzyme activity generally rises because molecules move faster, leading to more collisions between enzymes and substrates. However, if the temperature exceeds the optimum level, the enzyme denatures, causing a loss of function.",
+          "criteria": [
+            "Mentions increased enzyme activity with temperature rise (1 mark)",
+            "Mentions denaturation at high temperatures (1 mark)"
+          ]
+        },
+        {
+          "type": "short-answer",
+          "question": "Why do cells need a high surface-area-to-volume ratio for efficient exchange of materials? (2 marks)",
+          "answer": "A high surface-area-to-volume ratio allows for more efficient diffusion of nutrients and waste across the cell membrane. If a cell is too large, diffusion becomes inefficient, limiting the cell’s ability to obtain resources and remove waste quickly.",
+          "criteria": [
+            "Mentions efficient diffusion of nutrients and waste (1 mark)",
+            "Mentions inefficiency in large cells (1 mark)"
+          ]
+        },
+        {
+          "type": "short-answer",
+          "question": "Compare the roles of the nucleus and mitochondria in a eukaryotic cell. (3 marks)",
+          "answer": "The nucleus controls cell activities and contains genetic material. It regulates gene expression and directs protein synthesis. The mitochondria generate ATP through cellular respiration, providing energy for the cell’s functions.",
+          "criteria": [
+            "1 mark for stating the nucleus controls cell activities and contains genetic material.",
+            "1 mark for mentioning gene expression/protein synthesis.",
+            "1 mark for explaining mitochondria’s role in ATP production."
+          ]
+        },
+        {
+          "type": "short-answer",
+          "question": "Explain how the phospholipid bilayer and membrane proteins contribute to cell membrane function. (3 marks)",
+          "answer": "The phospholipid bilayer forms a semi-permeable barrier, allowing small, nonpolar molecules to pass while preventing larger or charged molecules from diffusing freely. Membrane proteins assist in transport by acting as channels or carriers for specific substances. Some proteins also function as receptors, detecting signals from the external environment.",
+          "criteria": [
+            "1 mark for explaining the semi-permeable nature of the phospholipid bilayer.",
+            "1 mark for describing how membrane proteins assist in transport.",
+            "1 mark for mentioning the role of proteins as receptors."
+          ]
+        },
+        {
+          "type": "short-answer",
+          "question": "Describe how diffusion and active transport differ in moving substances across the cell membrane. (3 marks)",
+          "answer": "Diffusion is the passive movement of molecules from an area of high concentration to low concentration and does not require energy. Active transport moves molecules against the concentration gradient, from low to high concentration, and requires energy in the form of ATP. Active transport also involves specific carrier proteins in the membrane to help move substances.",
+          "criteria": [
+            "1 mark for defining diffusion as passive movement from high to low concentration.",
+            "1 mark for defining active transport as movement against the concentration gradient requiring energy.",
+            "1 mark for mentioning the role of carrier proteins in active transport."
+          ]
+        },
+        {
+          "type": "short-answer",
+          "question": "How does temperature affect enzyme activity, and what happens when enzymes are exposed to extreme temperatures? (3 marks)",
+          "answer": "As temperature increases, enzyme activity rises due to higher kinetic energy, leading to more frequent collisions between enzymes and substrates. At an optimum temperature, enzyme activity is at its highest. If the temperature exceeds the optimum level, the enzyme denatures, causing the active site to change shape and preventing substrate binding.",
+          "criteria": [
+            "1 mark for explaining that increased temperature increases enzyme activity up to an optimum level.",
+            "1 mark for stating that enzyme activity decreases if the temperature exceeds the optimum.",
+            "1 mark for describing enzyme denaturation and loss of function."
+          ]
+        },
+        {
+          "type": "short-answer",
+          "question": "Explain why cells with a high surface-area-to-volume ratio are more efficient at exchanging materials. (3 marks)",
+          "answer": "Cells with a high surface-area-to-volume ratio allow for more efficient diffusion of nutrients and waste across the cell membrane. A larger surface area provides more space for exchange, while a smaller volume ensures that materials reach all parts of the cell quickly. If the ratio is too low, diffusion becomes inefficient, limiting the cell’s ability to sustain itself.",
+          "criteria": [
+            "1 mark for stating that a high surface-area-to-volume ratio improves diffusion efficiency.",
+            "1 mark for explaining how a larger surface area increases material exchange.",
+            "1 mark for describing how a smaller volume ensures quick transport of materials within the cell."
+          ]
+        },{
+          "type": "short-answer",
+          "question": "Compare and contrast the processes of osmosis and active transport in terms of energy requirement, direction of movement, and role in cells. (4 marks)",
+          "answer": "Osmosis is the passive movement of water molecules across a semi-permeable membrane from an area of low solute concentration to high solute concentration. It does not require energy. Active transport, on the other hand, requires ATP to move molecules against their concentration gradient, from low to high concentration. Osmosis helps maintain water balance in cells, while active transport allows cells to take in essential nutrients and expel waste.",
+          "criteria": [
+            "1 mark for defining osmosis as passive water movement across a semi-permeable membrane.",
+            "1 mark for defining active transport as an energy-requiring process moving substances against the concentration gradient.",
+            "1 mark for explaining that osmosis maintains water balance.",
+            "1 mark for explaining that active transport is used for nutrient uptake or waste removal."
+          ]
+        },
+        {
+          "type": "short-answer",
+          "question": "Describe the relationship between photosynthesis and cellular respiration in terms of energy flow and reactants/products. (4 marks)",
+          "answer": "Photosynthesis converts light energy into chemical energy by producing glucose and oxygen from carbon dioxide and water. Cellular respiration breaks down glucose in the presence of oxygen to produce ATP, releasing carbon dioxide and water as byproducts. The products of photosynthesis (glucose and oxygen) are the reactants of respiration, and the products of respiration (carbon dioxide and water) are used in photosynthesis, forming a continuous energy cycle.",
+          "criteria": [
+            "1 mark for stating that photosynthesis produces glucose and oxygen.",
+            "1 mark for stating that cellular respiration breaks down glucose to produce ATP.",
+            "1 mark for explaining how the products of photosynthesis are reactants in respiration.",
+            "1 mark for describing the continuous cycle of energy flow."
+          ]
+        },
+        {
+          "type": "short-answer",
+          "question": "Explain the role of enzymes in biochemical reactions and discuss two factors that affect enzyme activity. (4 marks)",
+          "answer": "Enzymes are biological catalysts that speed up chemical reactions by lowering the activation energy required. One factor affecting enzyme activity is temperature. At optimal temperature, enzyme activity is maximized, but extreme heat denatures the enzyme. Another factor is pH. Each enzyme has an optimal pH range, and deviations from this range can alter the enzyme's shape, reducing its effectiveness.",
+          "criteria": [
+            "1 mark for explaining that enzymes lower activation energy to speed up reactions.",
+            "1 mark for explaining the effect of temperature on enzyme activity.",
+            "1 mark for explaining the effect of pH on enzyme activity.",
+            "1 mark for discussing enzyme denaturation at extreme conditions."
+          ]
+        },
+        {
+          "type": "short-answer",
+          "question": "Explain how different types of microscopes contribute to our understanding of cell structure. (4 marks)",
+          "answer": "Light microscopes use visible light to magnify images, allowing scientists to observe living cells and basic structures such as the nucleus and cytoplasm. Electron microscopes, which use electron beams, provide much higher magnification and resolution, revealing organelles like mitochondria and ribosomes in great detail. Transmission electron microscopes (TEM) give detailed internal cell structures, while scanning electron microscopes (SEM) provide 3D surface images. These technologies have expanded our understanding of cellular ultrastructure.",
+          "criteria": [
+            "1 mark for describing how light microscopes allow observation of basic cell structures.",
+            "1 mark for describing the higher resolution of electron microscopes.",
+            "1 mark for explaining the function of transmission electron microscopes (TEM).",
+            "1 mark for explaining the function of scanning electron microscopes (SEM)."
+          ]
+        },
+        {
+          "type": "short-answer",
+          "question": "Discuss the importance of maintaining homeostasis in cells and provide two examples of how cells achieve this. (4 marks)",
+          "answer": "Homeostasis is essential for maintaining a stable internal environment, allowing cells to function efficiently. One example is osmoregulation, where cells control water balance through osmosis and active transport to prevent dehydration or bursting. Another example is temperature regulation in enzymes; cells adjust metabolic rates to maintain optimal enzyme function. These mechanisms help cells adapt to changing external conditions and sustain life processes.",
+          "criteria": [
+            "1 mark for defining homeostasis and its importance.",
+            "1 mark for explaining osmoregulation and its role in maintaining water balance.",
+            "1 mark for explaining temperature regulation in enzyme function.",
+            "1 mark for linking homeostasis to adaptation and survival."
+          ]
+        },
+        {
+          "type": "short-answer",
+          "question": "Describe the key differences between prokaryotic and eukaryotic cells, including at least three structural differences and two functional differences. (5 marks)",
+          "answer": "Prokaryotic cells lack a nucleus and membrane-bound organelles, while eukaryotic cells contain a nucleus and various organelles such as mitochondria and the endoplasmic reticulum. Prokaryotic cells are generally smaller and have circular DNA, whereas eukaryotic cells have linear chromosomes contained within the nucleus. Functionally, prokaryotic cells reproduce by binary fission, whereas eukaryotic cells undergo mitosis or meiosis. Additionally, prokaryotes often have plasmids for extra genetic material, while eukaryotes do not.",
+          "criteria": [
+            "1 mark for stating that prokaryotes lack a nucleus while eukaryotes have one.",
+            "1 mark for mentioning membrane-bound organelles in eukaryotic cells.",
+            "1 mark for describing differences in DNA structure (circular vs. linear).",
+            "1 mark for explaining the difference in reproduction (binary fission vs. mitosis/meiosis).",
+            "1 mark for describing an additional functional difference (e.g., presence of plasmids in prokaryotes)."
+          ]
+        },
+        {
+          "type": "short-answer",
+          "question": "Explain how the structure of the cell membrane contributes to its function, including references to the fluid mosaic model, selective permeability, and different types of membrane proteins. (5 marks)",
+          "answer": "The cell membrane follows the fluid mosaic model, consisting of a phospholipid bilayer with embedded proteins that allow for flexibility and selective transport of substances. The bilayer forms a semi-permeable barrier, allowing small, nonpolar molecules to pass while restricting larger or charged molecules. Integral proteins function as channels or carriers to transport specific substances across the membrane, while peripheral proteins assist in cell signaling and structural support. Cholesterol molecules help maintain membrane fluidity, and glycoproteins contribute to cell recognition and communication.",
+          "criteria": [
+            "1 mark for describing the phospholipid bilayer and fluid mosaic model.",
+            "1 mark for explaining selective permeability.",
+            "1 mark for mentioning the role of integral proteins in transport.",
+            "1 mark for describing the role of cholesterol in maintaining fluidity.",
+            "1 mark for explaining the role of glycoproteins in cell communication."
+          ]
+        },
+        {
+          "type": "short-answer",
+          "question": "Compare and contrast aerobic and anaerobic cellular respiration, including energy yield, location in the cell, and byproducts. (5 marks)",
+          "answer": "Aerobic respiration occurs in the mitochondria and requires oxygen to produce ATP, yielding up to 36-38 ATP molecules per glucose molecule. It produces carbon dioxide and water as byproducts. Anaerobic respiration occurs in the cytoplasm and does not require oxygen, yielding only 2 ATP per glucose molecule. In animals, anaerobic respiration produces lactic acid, while in yeast and some bacteria, it results in ethanol and carbon dioxide. While aerobic respiration is more efficient, anaerobic respiration provides energy when oxygen is scarce.",
+          "criteria": [
+            "1 mark for stating that aerobic respiration occurs in mitochondria and requires oxygen.",
+            "1 mark for stating that anaerobic respiration occurs in the cytoplasm and does not require oxygen.",
+            "1 mark for comparing energy yield (aerobic: 36-38 ATP, anaerobic: 2 ATP).",
+            "1 mark for listing byproducts of aerobic respiration (CO₂ and H₂O).",
+            "1 mark for listing byproducts of anaerobic respiration (lactic acid in animals, ethanol + CO₂ in yeast)."
+          ]
+        },
+        {
+          "type": "short-answer",
+          "question": "Discuss the role of enzymes in metabolism and describe three factors that affect enzyme activity. (5 marks)",
+          "answer": "Enzymes act as biological catalysts, speeding up metabolic reactions by lowering activation energy without being consumed. They work on specific substrates at their active sites, forming enzyme-substrate complexes. Temperature affects enzyme activity; optimal temperatures increase reaction rates, while extreme heat denatures enzymes. pH also influences activity, as deviations from the enzyme’s optimal pH can alter its shape. Substrate concentration impacts reaction rates, with increased substrate levels speeding up reactions until enzymes become saturated.",
+          "criteria": [
+            "1 mark for defining enzymes as biological catalysts.",
+            "1 mark for explaining how enzymes lower activation energy.",
+            "1 mark for describing the effect of temperature on enzyme activity.",
+            "1 mark for describing the effect of pH on enzyme activity.",
+            "1 mark for describing the effect of substrate concentration on enzyme activity."
+          ]
+        },
+        {
+          "type": "short-answer",
+          "question": "Explain why cells need to maintain a high surface-area-to-volume ratio, and describe two adaptations in organisms that help achieve this. (5 marks)",
+          "answer": "Cells need a high surface-area-to-volume ratio to efficiently exchange materials like oxygen, nutrients, and waste across the cell membrane. A low ratio would slow diffusion, making it difficult to sustain cellular functions. One adaptation is the presence of microvilli in the intestines, which increase the surface area for nutrient absorption. Another adaptation is the flattened shape of red blood cells, allowing for more efficient gas exchange. These adaptations help optimize material exchange, supporting the organism’s survival.",
+          "criteria": [
+            "1 mark for explaining the importance of a high surface-area-to-volume ratio.",
+            "1 mark for describing how a low ratio limits diffusion efficiency.",
+            "1 mark for identifying microvilli as an adaptation for increased surface area.",
+            "1 mark for identifying the flattened shape of red blood cells as an adaptation.",
+            "1 mark for explaining how these adaptations improve material exchange."
+          ]
+        },
+        {
+          "type": "long-answer",
+          "question": "Compare and contrast prokaryotic and eukaryotic cells, explaining their structural and functional differences. (10 marks)\n(i) Identify four key differences between prokaryotic and eukaryotic cells. (4 marks)\n(ii) Describe one similarity between prokaryotic and eukaryotic cells. (2 marks)\n(iii) Explain why eukaryotic cells are able to carry out more complex functions than prokaryotic cells. (2 marks)\n(iv) Discuss the advantages of compartmentalization in eukaryotic cells. (2 marks)",
+          "answer": "(i) Differences between prokaryotic and eukaryotic cells:\n- Nucleus: Prokaryotic cells lack a nucleus, while eukaryotic cells have a membrane-bound nucleus.\n- Organelles: Prokaryotic cells do not have membrane-bound organelles, while eukaryotic cells contain specialized structures such as mitochondria and the Golgi apparatus.\n- DNA structure: Prokaryotic DNA is circular and located in the cytoplasm, whereas eukaryotic DNA is linear and housed within the nucleus.\n- Cell division: Prokaryotic cells divide by binary fission, whereas eukaryotic cells undergo mitosis or meiosis.\n(ii) Similarity between prokaryotic and eukaryotic cells:\n- Both prokaryotic and eukaryotic cells contain ribosomes, which are essential for protein synthesis. This similarity highlights the fundamental requirement for protein production in all living organisms.\n(iii) Why eukaryotic cells carry out more complex functions:\n- Eukaryotic cells contain specialized organelles that allow for compartmentalization, improving efficiency in processes such as energy production (mitochondria) and protein synthesis (rough ER).\n(iv) Advantages of compartmentalization in eukaryotic cells:\n- Compartmentalization allows different metabolic processes to occur simultaneously without interference, increasing efficiency. It also protects the cell from potential damage caused by certain biochemical reactions occurring in specific organelles, such as lysosomes digesting unwanted materials.",
+          "criteria": [
+            "1 mark for each correctly explained difference (4 marks).",
+            "1 mark for identifying a correct similarity.",
+            "1 mark for explaining its significance.",
+            "1 mark for mentioning compartmentalization.",
+            "1 mark for explaining how this enhances efficiency.",
+            "1 mark for discussing multiple simultaneous reactions.",
+            "1 mark for explaining protection from harmful reactions."
+          ]
+        },
+        {
+          "type": "long-answer",
+          "question": "Explain the role of the cell membrane in maintaining homeostasis. (10 marks)\n(i) Describe the structure of the cell membrane according to the fluid mosaic model. (3 marks)\n(ii) How does selective permeability contribute to homeostasis? (3 marks)\n(iii) Describe one active and one passive transport process that helps maintain homeostasis. (4 marks)",
+          "answer": "(i) Structure of the cell membrane:\n- The plasma membrane is a phospholipid bilayer with embedded proteins, cholesterol, and glycoproteins. The hydrophilic heads face outward, while the hydrophobic tails face inward, creating a selectively permeable barrier. Proteins function in transport and communication, while cholesterol maintains membrane fluidity.\n(ii) Selective permeability and homeostasis:\n- Selective permeability regulates the movement of substances, ensuring essential nutrients (e.g., glucose, oxygen) enter while waste products (e.g., CO₂) exit. This prevents harmful substances from disrupting cellular function and maintains internal stability.\n(iii) Active and passive transport examples:\n- Active Transport: The sodium-potassium pump uses ATP to move Na⁺ out and K⁺ into the cell, maintaining ion balance.\n- Passive Transport: Osmosis regulates water movement across the membrane, preventing dehydration or excess water intake.",
+          "criteria": [
+            "1 mark for describing the phospholipid bilayer.",
+            "1 mark for mentioning proteins and cholesterol.",
+            "1 mark for explaining hydrophobic/hydrophilic regions.",
+            "1 mark for defining selective permeability.",
+            "1 mark for explaining how it controls material exchange.",
+            "1 mark for linking this to homeostasis.",
+            "2 marks for correctly explaining an active transport process.",
+            "2 marks for correctly explaining a passive transport process."
+          ]
+        },
+        {
+          "type": "long-answer",
+          "question": "Describe the process of cellular respiration and explain how it provides energy for cellular activities. (10 marks)\n(i) Identify the three stages of aerobic cellular respiration and the location of each. (3 marks)\n(ii) How does cellular respiration provide energy for cells? (3 marks)\n(iii) Compare aerobic and anaerobic respiration in terms of energy yield and byproducts. (4 marks)",
+          "answer": "(i) Stages of aerobic respiration and their locations:\n- Glycolysis – Occurs in the cytoplasm, breaking down glucose into pyruvate.\n- Krebs Cycle (Citric Acid Cycle) – Takes place in the mitochondrial matrix, producing electron carriers (NADH, FADH₂).\n- Electron Transport Chain (ETC) – Happens in the inner mitochondrial membrane, where ATP is generated.\n(ii) How cellular respiration provides energy:\n- Glucose is broken down in a series of reactions to release energy. ATP (adenosine triphosphate) is produced, which powers essential functions such as muscle contraction, active transport, and biosynthesis.\n(iii) Comparison of aerobic and anaerobic respiration:\n- Aerobic respiration produces 36-38 ATP per glucose and releases CO₂ and H₂O.\n- Anaerobic respiration produces only 2 ATP per glucose and results in lactic acid (animals) or ethanol + CO₂ (yeast/bacteria).",
+          "criteria": [
+            "1 mark for naming each stage correctly.",
+            "1 mark for identifying the correct location of each.",
+            "1 mark for explaining ATP production.",
+            "1 mark for linking ATP to cellular function.",
+            "2 marks for comparing ATP yield.",
+            "2 marks for listing byproducts."
+          ]
+        },
+        {
+          "type": "long-answer",
+          "question": "Explain the role of enzymes in biological reactions and discuss three factors that affect enzyme activity. (10 marks)\n(i) Describe how enzymes function as biological catalysts. (3 marks)\n(ii) Identify and explain three factors that influence enzyme activity. (6 marks)\n(iii) Why are enzymes important for metabolism? (1 mark)",
+          "answer": "(i) Enzymes as biological catalysts:\n- Enzymes speed up chemical reactions by lowering activation energy. They bind to specific substrates at their active site, forming an enzyme-substrate complex. After the reaction, the enzyme releases the product and remains unchanged, allowing repeated use.\n(ii) Factors influencing enzyme activity:\n- Temperature: Enzymes work best at an optimal temperature. Excess heat can denature them, while cold temperatures slow reactions.\n- pH: Each enzyme has an optimal pH. Extreme pH values alter the enzyme’s shape, reducing efficiency.\n- Substrate concentration: More substrate increases reaction rate until the enzyme becomes saturated, meaning all active sites are occupied.\n(iii) Importance of enzymes in metabolism:\n- Enzymes allow metabolic reactions to occur quickly enough to sustain life. Without them, processes like digestion, respiration, and DNA replication would be too slow.",
+          "criteria": [
+            "1 mark for stating enzymes lower activation energy.",
+            "1 mark for explaining enzyme-substrate binding.",
+            "1 mark for noting enzymes remain unchanged after reactions.",
+            "2 marks for explaining temperature effects.",
+            "2 marks for explaining pH effects.",
+            "2 marks for explaining substrate concentration effects.",
+            "1 mark for linking enzyme function to sustaining life."
+          ]
+        },
+        {
+          "type": "long-answer",
+          "question": "Discuss the importance of homeostasis and explain two mechanisms by which the body maintains homeostasis. (10 marks)\n(i) Define homeostasis and explain why it is important. (3 marks)\n(ii) Describe two mechanisms that help maintain homeostasis in humans. (6 marks)\n(iii) What happens when homeostasis fails? (1 mark)",
+          "answer": "(i) Definition and importance of homeostasis:\n- Homeostasis is the ability of an organism to maintain a stable internal environment despite external changes. It ensures optimal enzyme function, nutrient balance, and waste removal. Without homeostasis, cells could become too acidic, dehydrated, or lack essential nutrients, leading to dysfunction or death.\n(ii) Two homeostatic mechanisms:\n- Thermoregulation: The body regulates temperature through sweating (cooling) or shivering (warming) to maintain optimal enzyme activity.\n- Osmoregulation: The kidneys control water balance by adjusting urine concentration to prevent dehydration or overhydration.\n(iii) What happens when homeostasis fails?\n- Failure of homeostasis can lead to disease, such as diabetes, where blood glucose levels become unregulated.",
+          "criteria": [
+            "1 mark for defining homeostasis.",
+            "1 mark for explaining why it is essential.",
+            "1 mark for linking homeostasis to cell survival.",
+            "3 marks for explaining thermoregulation.",
+            "3 marks for explaining osmoregulation.",
+            "1 mark for explaining an example of disease or dysfunction."
+          ]
+        },
+        {
+          "type": "long-answer",
+          "question": "Explain the structure and function of the plasma membrane, including its role in transport mechanisms. (10 marks)\n(i) Describe the structure of the plasma membrane according to the fluid mosaic model. (3 marks)\n(ii) Explain how the plasma membrane controls the movement of substances. (3 marks)\n(iii) Compare and contrast passive and active transport across the membrane. (2 marks)\n(iv) Explain the importance of membrane proteins in transport. (2 marks)",
+          "answer": "(i) Structure of the plasma membrane:\n- The plasma membrane is composed of a phospholipid bilayer with embedded proteins, cholesterol, and carbohydrates. The hydrophilic heads face outward, while the hydrophobic tails face inward, forming a selective barrier. Proteins function as transporters, receptors, and structural components, while cholesterol maintains membrane fluidity.\n(ii) How the plasma membrane controls movement of substances:\n- The plasma membrane is selectively permeable, allowing only specific molecules to pass. Small, nonpolar molecules diffuse freely, while channel and carrier proteins assist larger or charged molecules through facilitated diffusion and active transport.\n(iii) Comparison of passive and active transport:\n- Passive transport (e.g., diffusion, osmosis) moves molecules down the concentration gradient without energy.\n- Active transport (e.g., sodium-potassium pump) moves molecules against the concentration gradient, requiring ATP.\n(iv) Importance of membrane proteins in transport:\n- Membrane proteins allow selective passage of essential substances, preventing harmful molecules from entering. They play roles in facilitated diffusion, active transport, and cell signaling, ensuring proper cellular function.",
+          "criteria": [
+            "1 mark for describing the phospholipid bilayer.",
+            "1 mark for mentioning proteins and cholesterol.",
+            "1 mark for explaining hydrophobic/hydrophilic regions.",
+            "1 mark for defining selective permeability.",
+            "1 mark for explaining how it controls material exchange.",
+            "1 mark for linking to homeostasis.",
+            "1 mark for defining passive transport.",
+            "1 mark for defining active transport.",
+            "1 mark for explaining transport functions.",
+            "1 mark for explaining their role in signaling."
+          ]
+        },
+        {
+          "type": "long-answer",
+          "question": "Explain the role of DNA in protein synthesis and discuss the importance of this process for cellular function. (10 marks)\n(i) Describe the structure of DNA and its role in storing genetic information. (3 marks)\n(ii) Outline the key stages of protein synthesis, including transcription and translation. (5 marks)\n(iii) Why is protein synthesis essential for cell function? (2 marks)",
+          "answer": "(i) Structure of DNA and its role in storing genetic information:\n- DNA is a double helix composed of nucleotides, which contain a sugar-phosphate backbone and nitrogenous bases (A, T, C, G). The sequence of bases encodes genetic instructions that determine the structure and function of proteins.\n(ii) Key stages of protein synthesis:\n- Transcription (occurs in the nucleus):\n  - DNA is unzipped, and one strand is used as a template to form messenger RNA (mRNA).\n  - RNA polymerase helps build mRNA by pairing complementary bases (A-U, C-G).\n  - The mRNA strand leaves the nucleus and enters the cytoplasm.\n- Translation (occurs in the cytoplasm at ribosomes):\n  - The mRNA binds to a ribosome, where transfer RNA (tRNA) molecules bring amino acids.\n  - tRNA matches codons on mRNA with anticodons, assembling amino acids in a specific sequence.\n  - The amino acids form a polypeptide chain, which folds into a functional protein.\n(iii) Why protein synthesis is essential for cell function:\n- Proteins play a crucial role in cell growth, repair, and enzyme function. Without protein synthesis, cells would be unable to produce enzymes, hormones, and structural proteins, leading to impaired function.",
+          "criteria": [
+            "1 mark for describing the double helix structure.",
+            "1 mark for explaining nucleotide composition.",
+            "1 mark for stating that DNA stores genetic information.",
+            "2 marks for describing transcription.",
+            "2 marks for describing translation.",
+            "1 mark for explaining the role of codons and anticodons.",
+            "1 mark for explaining protein roles in cellular function.",
+            "1 mark for stating consequences of impaired protein synthesis."
+          ]
+        }
+  ]
+}

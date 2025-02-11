@@ -1,0 +1,114 @@
+{
+  "module8": [
+    {
+      "type": "short-answer",
+      "question": "What is the main function of mitochondria in a eukaryotic cell? (2 marks)",
+      "answer": "The mitochondria produce ATP through cellular respiration.",
+      "criteria": [
+        "Mentions ATP production",
+        "Includes cellular respiration"
+      ]
+    },
+    {
+      "type": "short-answer",
+      "question": "Why do muscle cells have more mitochondria than skin cells? (3 marks)",
+      "answer": "Muscle cells require more energy for contraction, so they have more mitochondria to produce ATP efficiently.",
+      "criteria": [
+        "Mentions higher energy demand in muscle cells",
+        "Explains ATP production for muscle contraction",
+        "Relates to function of mitochondria"
+      ]
+    },
+    {
+      "type": "long-answer",
+      "question": "Explain the structure and function of mitochondria, and describe why they are referred to as the 'powerhouse of the cell'. (5 marks)",
+      "answer": "Mitochondria are double-membraned organelles responsible for ATP production. Their inner membrane folds into cristae to increase surface area for ATP synthesis. They contain their own DNA, allowing them to reproduce independently. The mitochondria play a key role in cellular respiration by breaking down glucose into ATP.",
+      "criteria": [
+        "Describes double-membrane structure",
+        "Mentions cristae for increased surface area",
+        "Explains ATP production",
+        "Includes role in cellular respiration",
+        "Mentions mitochondria's own DNA"
+      ]
+    },
+    {
+      "type": "long-answer",
+      "question": "Compare and contrast prokaryotic and eukaryotic cells. (6 marks)",
+      "answer": "Prokaryotic cells are unicellular organisms that lack a nucleus and membrane-bound organelles. They have a single circular DNA molecule and reproduce via binary fission. Eukaryotic cells, in contrast, have a defined nucleus, multiple linear chromosomes, and various membrane-bound organelles such as mitochondria and the Golgi apparatus. They reproduce through mitosis or meiosis.",
+      "criteria": [
+        "Defines prokaryotic cells",
+        "Defines eukaryotic cells",
+        "Mentions presence/absence of nucleus",
+        "Mentions presence/absence of organelles",
+        "Explains method of reproduction",
+        "Includes an example of each type"
+      ]
+    },
+    {
+  "module2": [
+    {
+      "type": "long-answer",
+      "question": "Compare and contrast the structures and functions of prokaryotic and eukaryotic cells, including four key differences, one similarity, and why eukaryotic cells carry out more complex functions. (8 marks)",
+      "answer": "Prokaryotic cells lack a nucleus and membrane-bound organelles, while eukaryotic cells have a membrane-bound nucleus and organelles such as mitochondria and the Golgi apparatus. Prokaryotic DNA is circular and floats in the cytoplasm, whereas eukaryotic DNA is linear and enclosed within the nucleus. Prokaryotic cells divide by binary fission, while eukaryotic cells divide by mitosis or meiosis. Additionally, prokaryotes often contain plasmids for extra genetic material, which eukaryotic cells lack. Both cell types contain ribosomes for protein synthesis. Eukaryotic cells are more complex because they have specialized organelles that allow compartmentalization of functions, making energy production and protein synthesis more efficient.",
+      "criteria": [
+        "1 mark for each correctly explained difference (4 marks).",
+        "1 mark for identifying a similarity.",
+        "1 mark for explaining its significance.",
+        "1 mark for mentioning compartmentalization of functions.",
+        "1 mark for explaining how this enhances efficiency."
+      ]
+    },
+    {
+      "type": "long-answer",
+      "question": "Explain the role of the cell membrane in maintaining homeostasis, including its structure, selective permeability, and active and passive transport. (8 marks)",
+      "answer": "The cell membrane is composed of a phospholipid bilayer with embedded proteins, cholesterol, and glycoproteins, forming a fluid mosaic model. The hydrophilic heads face outward, while the hydrophobic tails face inward, creating a selectively permeable barrier. Selective permeability ensures essential nutrients enter while waste exits, preventing harmful substances from disrupting cellular function. Active transport, such as the sodium-potassium pump, uses ATP to maintain ion balance, while passive transport, like osmosis, regulates water movement without energy expenditure, maintaining cell hydration.",
+      "criteria": [
+        "1 mark for describing the phospholipid bilayer and fluid mosaic model.",
+        "1 mark for explaining selective permeability.",
+        "1 mark for explaining how it controls material exchange.",
+        "1 mark for linking this to homeostasis.",
+        "1 mark for an example of active transport.",
+        "1 mark for an example of passive transport."
+      ]
+    },
+    {
+      "type": "long-answer",
+      "question": "Describe the process of cellular respiration, including its three stages, ATP production, and a comparison of aerobic and anaerobic respiration. (8 marks)",
+      "answer": "Cellular respiration consists of three stages: Glycolysis, which occurs in the cytoplasm and breaks glucose into pyruvate; the Krebs Cycle, which takes place in the mitochondrial matrix and produces electron carriers (NADH, FADH₂); and the Electron Transport Chain (ETC), which happens in the inner mitochondrial membrane, where ATP is generated. ATP provides energy for cellular functions such as muscle contraction and active transport. Aerobic respiration produces 36-38 ATP per glucose molecule, releasing CO₂ and H₂O, while anaerobic respiration yields only 2 ATP, producing lactic acid in animals and ethanol plus CO₂ in yeast and bacteria.",
+      "criteria": [
+        "1 mark for naming and locating each stage of respiration (3 marks).",
+        "1 mark for explaining ATP production.",
+        "1 mark for comparing energy yield (aerobic: 36-38 ATP, anaerobic: 2 ATP).",
+        "1 mark for listing byproducts of aerobic respiration (CO₂ and H₂O).",
+        "1 mark for listing byproducts of anaerobic respiration (lactic acid in animals, ethanol + CO₂ in yeast)."
+      ]
+    },
+    {
+      "type": "short-answer",
+      "question": "Discuss the role of enzymes in metabolism and describe three factors that affect enzyme activity. (5 marks)",
+      "answer": "Enzymes act as biological catalysts, speeding up metabolic reactions by lowering activation energy without being consumed. They work on specific substrates at their active sites, forming enzyme-substrate complexes. Temperature affects enzyme activity; optimal temperatures increase reaction rates, while extreme heat denatures enzymes. pH also influences activity, as deviations from the enzyme’s optimal pH can alter its shape. Substrate concentration impacts reaction rates, with increased substrate levels speeding up reactions until enzymes become saturated.",
+      "criteria": [
+        "1 mark for defining enzymes as biological catalysts.",
+        "1 mark for explaining how enzymes lower activation energy.",
+        "1 mark for describing the effect of temperature on enzyme activity.",
+        "1 mark for describing the effect of pH on enzyme activity.",
+        "1 mark for describing the effect of substrate concentration on enzyme activity."
+      ]
+    },
+    {
+      "type": "short-answer",
+      "question": "Explain why cells need to maintain a high surface-area-to-volume ratio, and describe two adaptations in organisms that help achieve this. (5 marks)",
+      "answer": "Cells need a high surface-area-to-volume ratio to efficiently exchange materials like oxygen, nutrients, and waste across the cell membrane. A low ratio would slow diffusion, making it difficult to sustain cellular functions. One adaptation is the presence of microvilli in the intestines, which increase the surface area for nutrient absorption. Another adaptation is the flattened shape of red blood cells, allowing for more efficient gas exchange. These adaptations help optimize material exchange, supporting the organism’s survival.",
+      "criteria": [
+        "1 mark for explaining the importance of a high surface-area-to-volume ratio.",
+        "1 mark for describing how a low ratio limits diffusion efficiency.",
+        "1 mark for identifying microvilli as an adaptation for increased surface area.",
+        "1 mark for identifying the flattened shape of red blood cells as an adaptation.",
+        "1 mark for explaining how these adaptations improve material exchange."
+      ]
+    }
+  ]
+}
+
+  ]
+}
